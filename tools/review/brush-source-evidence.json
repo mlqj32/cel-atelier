@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://www.bishua.art/combination/procreate_brush.html",
+    "type": "第三方中文名称对照；不作为官方下载渠道",
+    "evidence": [
+      "6B Pencil6B 铅笔6B 铅笔",
+      "Studio Pen画室画笔工作室笔",
+      "Gouache水粉画水粉",
+      "Watercolor水彩水彩",
+      "Monoline单线单线",
+      "Soft Brush软笔刷软画笔",
+      "Medium Hard Brush中等硬度笔刷中等硬画笔",
+      "Hard Brush硬质笔刷硬画笔"
+    ]
+  },
+  {
+    "url": "https://help.procreate.com/cn/procreate/handbook/brushes/brush-library",
+    "type": "官方",
+    "evidence": "5.4区分Procreate库与经典库；经典库含素描、着墨、书法、气笔修饰、上漆分类。"
+  },
+  {
+    "url": "https://help.clip-studio.com/zh-tw/manual_tc/240_brushes/%E7%B7%9A%E6%A2%9D%E6%88%96%E5%A1%AB%E5%85%85%E7%94%A8%E5%B7%A5%E5%85%B7.htm",
+    "type": "官方繁体中文手册，正文名称转为简体",
+    "evidence": "界面图240_brushes_0001显示G筆；0003顯示鉛筆；0005顯示水彩圓筆。"
+  },
+  {
+    "url": "https://helpx.adobe.com/cn/photoshop/desktop/apply-painting-techniques/fill-objects-selections-layers/brush-dynamics-settings.html",
+    "type": "官方",
+    "evidence": "形状动态控制尺寸，转移控制不透明度/流量；压感需兼容设备。"
+  },
+  {
+    "url": "https://helpx.adobe.com/cn/photoshop/desktop/apply-painting-techniques/brushes-presets/create-brush-set-painting-options.html",
+    "type": "官方",
+    "evidence": "窗口→画笔设置；画笔笔尖形状控制大小、角度、圆度、间距，截图含硬度。"
+  },
+  {
+    "url": "https://www.systemax.jp/bin/sai2-20260702b-64bit-en.zip",
+    "type": "官方发布包，只读核验，未运行程序",
+    "evidence": "sai2.exe中的工具原名含Pencil、AirBrush、Water Color；history.txt包含Binary工具支持尺寸压力的修复记录。"
+  }
+]

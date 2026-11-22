@@ -1,0 +1,66 @@
+{
+  "fileChecks": [
+    {
+      "file": "exif-xmp.jpg",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "summary": "02 · 读取结果\nexif-xmp.jpg\n\nJPEG · 4.8 KiB · 240 × 180 像素（容器声明）\n\n读取到 3 项软件线索、5 项时间相关字段。",
+      "fields": 10
+    },
+    {
+      "file": "exif-xmp.webp",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "summary": "02 · 读取结果\nexif-xmp.webp\n\nWebP · 2.5 KiB · 240 × 180 像素（容器声明）\n\n读取到 3 项软件线索、5 项时间相关字段。",
+      "fields": 10
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "summary": "02 · 读取结果\ntext-exif-xmp.png\n\nPNG · 2.4 KiB · 240 × 180 像素（容器声明）\n\n读取到 4 项软件线索、5 项时间相关字段。",
+      "fields": 14
+    },
+    {
+      "file": "codex-clipboard-a9d92ac4-9769-4157-95d1-547b03c688e5.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "summary": "02 · 读取结果\ncodex-clipboard-a9d92ac4-9769-4157-95d1-547b03c688e5.png\n\nPNG · 396.9 KiB · 1910 × 630 像素（容器声明）\n\n读取到 0 项软件线索、0 项时间相关字段。",
+      "fields": 0
+    },
+    {
+      "file": "codex-clipboard-b1163993-83dc-48ec-9c82-61592eee432a.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "summary": "02 · 读取结果\ncodex-clipboard-b1163993-83dc-48ec-9c82-61592eee432a.png\n\nPNG · 326.8 KiB · 1880 × 485 像素（容器声明）\n\n读取到 0 项软件线索、0 项时间相关字段。",
+      "fields": 0
+    }
+  ],
+  "layouts": [
+    {
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1430,
+      "width": 1440
+    }
+  ],
+  "notes": "Offline bundle tested with fetch/importScripts disabled in Node VM; browser UI checks performed over HTTP. Direct file:// browser navigation is disallowed by the browser automation URL policy.",
+  "warnings": []
+}

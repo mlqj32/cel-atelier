@@ -1,0 +1,190 @@
+{
+  "quoteEvidence": [
+    {
+      "option": "商用 ×2",
+      "text": "【教学报价示例，需按项目修改】\n类型：头像\n总价：¥800（示例预付款 30%：¥240）\n包含：草图/线稿/上色 三次确认\n修改：草稿阶段 2 次，线稿后 1 次（示例）\n交付：PNG + 分层 PSD，长边 3000px（待需求确认）\n授权：商业使用（用途/媒介/期限/地域待确认）\n周期：待双方确认\n取消、阶段结算与退款：另行约定"
+    },
+    {
+      "option": "买断 ×4",
+      "text": "【教学报价示例，需按项目修改】\n类型：头像\n总价：¥1600（示例预付款 30%：¥480）\n包含：草图/线稿/上色 三次确认\n修改：草稿阶段 2 次，线稿后 1 次（示例）\n交付：PNG + 分层 PSD，长边 3000px（待需求确认）\n授权：独占许可或权利转让（逐项另约）\n周期：待双方确认\n取消、阶段结算与退款：另行约定"
+    },
+    {
+      "option": "个人",
+      "text": "【教学报价示例，需按项目修改】\n类型：头像\n总价：¥400（示例预付款 30%：¥120）\n包含：草图/线稿/上色 三次确认\n修改：草稿阶段 2 次，线稿后 1 次（示例）\n交付：PNG + 分层 PSD，长边 3000px（待需求确认）\n授权：个人使用（具体范围待确认）\n周期：待双方确认\n取消、阶段结算与退款：另行约定"
+    }
+  ],
+  "quotePreviewLayouts": [
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 310
+    },
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 380
+    },
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 1430
+    }
+  ],
+  "affectedPageLayouts": [
+    {
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 310
+    },
+    {
+      "route": "#/m/ipad/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "iPad 工作流、备份与故障排查",
+      "width": 310
+    },
+    {
+      "route": "#/m/sai2/ch09",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "SAI2 赛璐璐完整工作流：25 步照做",
+      "width": 310
+    },
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 310
+    },
+    {
+      "route": "#/m/career/ch05",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "稿件类型与报价：头像、半身、立绘、商稿",
+      "width": 310
+    },
+    {
+      "route": "#/m/practice/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "反馈与复盘：让每一张都算数",
+      "width": 310
+    },
+    {
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 380
+    },
+    {
+      "route": "#/m/ipad/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "iPad 工作流、备份与故障排查",
+      "width": 380
+    },
+    {
+      "route": "#/m/sai2/ch09",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "SAI2 赛璐璐完整工作流：25 步照做",
+      "width": 380
+    },
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 380
+    },
+    {
+      "route": "#/m/career/ch05",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "稿件类型与报价：头像、半身、立绘、商稿",
+      "width": 380
+    },
+    {
+      "route": "#/m/practice/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "反馈与复盘：让每一张都算数",
+      "width": 380
+    },
+    {
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 1430
+    },
+    {
+      "route": "#/m/ipad/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "iPad 工作流、备份与故障排查",
+      "width": 1430
+    },
+    {
+      "route": "#/m/sai2/ch09",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "SAI2 赛璐璐完整工作流：25 步照做",
+      "width": 1430
+    },
+    {
+      "route": "#/m/career/ch04",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "定价体系：报价不是“我觉得值多少”",
+      "width": 1430
+    },
+    {
+      "route": "#/m/career/ch05",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "稿件类型与报价：头像、半身、立绘、商稿",
+      "width": 1430
+    },
+    {
+      "route": "#/m/practice/ch08",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "反馈与复盘：让每一张都算数",
+      "width": 1430
+    }
+  ],
+  "svgIssues": [],
+  "logs": []
+}

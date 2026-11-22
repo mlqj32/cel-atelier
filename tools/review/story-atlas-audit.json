@@ -1,0 +1,47 @@
+[
+  {
+    "viewport": 320,
+    "bounds": {
+      "issues": [],
+      "panels": 92,
+      "stories": 23
+    },
+    "layout": {
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "图解与例图总览",
+      "width": 310
+    }
+  },
+  {
+    "viewport": 390,
+    "bounds": {
+      "issues": [],
+      "panels": 92,
+      "stories": 23
+    },
+    "layout": {
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "图解与例图总览",
+      "width": 380
+    }
+  },
+  {
+    "viewport": 1440,
+    "bounds": {
+      "issues": [],
+      "panels": 92,
+      "stories": 23
+    },
+    "layout": {
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "图解与例图总览",
+      "width": 1430
+    }
+  }
+]

@@ -1,0 +1,324 @@
+{
+  "layouts": [
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 365,
+      "width": 375
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 590,
+      "width": 600
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1014,
+      "width": 1024
+    },
+    {
+      "state": "sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 365,
+      "width": 375
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 590,
+      "width": 600
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1014,
+      "width": 1024
+    },
+    {
+      "state": "long-field-expanded-report",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 365,
+      "width": 375
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 590,
+      "width": 600
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 1014,
+      "width": 1024
+    },
+    {
+      "state": "module-entry",
+      "bad": [],
+      "path": "#/m/reverse",
+      "root": "mod-utility",
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "state": "paper-sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "state": "paper-sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "state": "paper-sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "state": "paper-sample",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1430,
+      "width": 1440
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 310,
+      "width": 320
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 365,
+      "width": 375
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 380,
+      "width": 390
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 590,
+      "width": 600
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 758,
+      "width": 768
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1014,
+      "width": 1024
+    },
+    {
+      "state": "final-spacing",
+      "bad": [],
+      "path": "#/m/reverse/ch03",
+      "root": "rev-lab rev-meta",
+      "scroll": 1430,
+      "width": 1440
+    }
+  ],
+  "fileChecks": [
+    {
+      "name": "text-exif-xmp.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "fields": 14,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n发现工具声明\n\n下方逐项保留原值。多个工具可能参与，也可能继承或改写标签。",
+      "preview": ""
+    },
+    {
+      "name": "exif-xmp.webp",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "fields": 10,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n发现工具声明\n\n下方逐项保留原值。多个工具可能参与，也可能继承或改写标签。",
+      "preview": ""
+    },
+    {
+      "name": "clean.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "fields": 0,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n未提取到\n\n可能未写入、被平台清理或超出解析范围；不能据画风补猜。",
+      "preview": ""
+    },
+    {
+      "name": "invalid.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "fields": 0,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n未提取到\n\n可能未写入、被平台清理或超出解析范围；不能据画风补猜。",
+      "preview": "尺寸未读取或超过4000万像素，已跳过预览。"
+    },
+    {
+      "name": "long-hostile.png",
+      "status": "本地读取完成。下方为现存声明，真实绘制时间仍无法确认。",
+      "fields": 1,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n发现工具声明\n\n下方逐项保留原值。多个工具可能参与，也可能继承或改写标签。",
+      "preview": ""
+    },
+    {
+      "name": "unsupported.svg",
+      "status": "当前格式不受支持，请用桌面工具复核。",
+      "fields": 0,
+      "injectedImages": 0,
+      "summary": "真实绘制时间 / 工时\n无法确定\n\n日期标签描述文件声明，无法还原从第一笔到完成的过程。\n\n软件线索\n未提取到\n\n可能未写入、被平台清理或超出解析范围；不能据画风补猜。",
+      "preview": "该格式不生成预览。"
+    }
+  ],
+  "errorChecks": [
+    {
+      "file": "empty.png",
+      "status": "这是空文件，请重新选择图片。",
+      "output": ""
+    },
+    {
+      "file": "cel-metadata-oversize.png",
+      "status": "文件超过32 MiB，请换较小的原始导出图，或用桌面工具检查。",
+      "output": ""
+    }
+  ],
+  "download": "illustration-metadata-report.txt",
+  "consoleWarnings": []
+}

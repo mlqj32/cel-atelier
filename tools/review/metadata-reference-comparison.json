@@ -1,0 +1,604 @@
+{
+  "referenceTool": "ExifTool 13.63",
+  "sampleScope": "Synthetic test metadata; IPTC sample authored by independent ExifTool writer. Not genuine Photoshop exports.",
+  "oldRegression": {
+    "file": "reference-iptc.jpg",
+    "fields": 0,
+    "warnings": 0
+  },
+  "results": [
+    {
+      "file": "reference-iptc.jpg",
+      "reference": {
+        "SourceFile": "tools/fixtures/metadata/reference-iptc.jpg",
+        "ExifTool:ExifToolVersion": 13.63,
+        "System:FileName": "reference-iptc.jpg",
+        "System:Directory": "tools/fixtures/metadata",
+        "System:FileSize": "4.4 kB",
+        "System:FileModifyDate": "2026:11:15 19:08:42+08:00",
+        "System:FileAccessDate": "2026:11:15 19:12:18+08:00",
+        "System:FileCreateDate": "2026:11:15 19:06:12+08:00",
+        "System:FilePermissions": "-rw-rw-rw-",
+        "File:FileType": "JPEG",
+        "File:FileTypeExtension": "jpg",
+        "File:MIMEType": "image/jpeg",
+        "File:CurrentIPTCDigest": "5adfe48b80891c81072ec14ff29131b4",
+        "File:Comment": "REFERENCE TEST; not a genuine software export.",
+        "File:ImageWidth": 240,
+        "File:ImageHeight": 180,
+        "File:EncodingProcess": "Baseline DCT, Huffman coding",
+        "File:BitsPerSample": 8,
+        "File:ColorComponents": 3,
+        "File:YCbCrSubSampling": "YCbCr4:2:0 (2 2)",
+        "JFIF:JFIFVersion": 1.01,
+        "JFIF:ResolutionUnit": "None",
+        "JFIF:XResolution": 1,
+        "JFIF:YResolution": 1,
+        "IPTC:DateCreated": "2025:03:04",
+        "IPTC:TimeCreated": "12:34:56+08:00",
+        "IPTC:OriginatingProgram": "Reference Test Tool",
+        "IPTC:ProgramVersion": 26,
+        "IPTC:ApplicationRecordVersion": 4,
+        "Composite:ImageSize": "240x180",
+        "Composite:Megapixels": 0.043,
+        "Composite:DateTimeCreated": "2025:03:04 12:34:56+08:00",
+        "Composite:DateTimeOriginal": "2025:03:04 12:34:56+08:00"
+      },
+      "actual": {
+        "format": "JPEG",
+        "supported": true,
+        "fields": [
+          {
+            "source": "JPEG/APP13#2/resource-1028#1/IPTC",
+            "tag": "DateCreated",
+            "value": "20250304",
+            "kind": "time",
+            "explanation": "IPTC日期声明，原值按YYYYMMDD保留；不是实际起笔日期，需与同组时间及来源核对。"
+          },
+          {
+            "source": "JPEG/APP13#2/resource-1028#1/IPTC",
+            "tag": "TimeCreated",
+            "value": "123456+0800",
+            "kind": "time",
+            "explanation": "IPTC时间声明，原值按HHMMSS及可能的时区偏移保留；需与同组日期配对，不是工时。"
+          },
+          {
+            "source": "JPEG/APP13#2/resource-1028#1/IPTC",
+            "tag": "OriginatingProgram",
+            "value": "Reference Test Tool",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "JPEG/APP13#2/resource-1028#1/IPTC",
+            "tag": "ProgramVersion",
+            "value": "26.0",
+            "kind": "other",
+            "explanation": "程序版本声明，需与同组 OriginatingProgram 配对；版本号本身不能识别软件。"
+          },
+          {
+            "source": "JPEG/COM#3",
+            "tag": "Comment",
+            "value": "REFERENCE TEST; not a genuine software export.",
+            "kind": "other",
+            "explanation": "现存描述字段，按原值展示；不是来源认证。"
+          }
+        ],
+        "warnings": [],
+        "width": 240,
+        "height": 180,
+        "limits": "支持 PNG 文本/tIME/eXIf、JPEG 标准 APP1 EXIF/XMP、Photoshop APP13 的 IPTC/XMP 与 COM 注释、WebP EXIF/XMP。识别 XMP 编辑历史和常见 PNG 日期别名。最多检查10000个块/段，单块1 MiB，累计4 MiB、200个展示字段；不读取 GPS、私有 MakerNote、ICC 内容或缩略图，不验证签名和完整图像解码；扩展 XMP、同一包内重复属性及其他未支持数据请用 ExifTool 复核。",
+        "diagnostics": {
+          "parserVersion": 36,
+          "containers": {
+            "APP0": 1,
+            "APP13": 1,
+            "COM": 1,
+            "marker-db": 2,
+            "marker-c0": 1,
+            "marker-c4": 4,
+            "marker-da": 1
+          },
+          "attempts": [
+            {
+              "source": "JPEG/APP13#2",
+              "type": "Photoshop资源",
+              "bytes": 96,
+              "status": "parsed",
+              "fields": 4
+            },
+            {
+              "source": "JPEG/APP13#2/resource-1028#1/IPTC",
+              "type": "IPTC",
+              "bytes": 69,
+              "status": "parsed",
+              "fields": 4
+            },
+            {
+              "source": "JPEG/COM#3",
+              "type": "注释",
+              "bytes": 46,
+              "status": "parsed",
+              "fields": 1
+            }
+          ],
+          "skippedFields": 1,
+          "state": "extracted",
+          "summary": "已成功读取 5 项展示字段；软件和日期是否存在需分别查看。",
+          "scanned": 11
+        }
+      }
+    },
+    {
+      "file": "history-xmp.jpg",
+      "reference": {
+        "SourceFile": "tools/fixtures/metadata/history-xmp.jpg",
+        "ExifTool:ExifToolVersion": 13.63,
+        "System:FileName": "history-xmp.jpg",
+        "System:Directory": "tools/fixtures/metadata",
+        "System:FileSize": "4.7 kB",
+        "System:FileModifyDate": "2026:11:15 19:11:34+08:00",
+        "System:FileAccessDate": "2026:11:15 19:12:18+08:00",
+        "System:FileCreateDate": "2026:11:15 19:11:34+08:00",
+        "System:FilePermissions": "-rw-rw-rw-",
+        "File:FileType": "JPEG",
+        "File:FileTypeExtension": "jpg",
+        "File:MIMEType": "image/jpeg",
+        "File:ImageWidth": 240,
+        "File:ImageHeight": 180,
+        "File:EncodingProcess": "Baseline DCT, Huffman coding",
+        "File:BitsPerSample": 8,
+        "File:ColorComponents": 3,
+        "File:YCbCrSubSampling": "YCbCr4:2:0 (2 2)",
+        "XMP-xmpMM:HistoryAction": "saved",
+        "XMP-xmpMM:HistorySoftwareAgent": "Reference History Tool",
+        "XMP-xmpMM:HistoryWhen": "2025:01:02 03:04:05+08:00",
+        "JFIF:JFIFVersion": 1.01,
+        "JFIF:ResolutionUnit": "None",
+        "JFIF:XResolution": 1,
+        "JFIF:YResolution": 1,
+        "Composite:ImageSize": "240x180",
+        "Composite:Megapixels": 0.043
+      },
+      "actual": {
+        "format": "JPEG",
+        "supported": true,
+        "fields": [
+          {
+            "source": "JPEG/APP1#1/XMP/xmpMM.History",
+            "tag": "action",
+            "value": "saved",
+            "kind": "other",
+            "explanation": "现存描述字段，按原值展示；不是来源认证。"
+          },
+          {
+            "source": "JPEG/APP1#1/XMP/xmpMM.History",
+            "tag": "softwareAgent",
+            "value": "Reference History Tool",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "JPEG/APP1#1/XMP/xmpMM.History",
+            "tag": "when",
+            "value": "2025-01-02T03:04:05+08:00",
+            "kind": "time",
+            "explanation": "XMP 编辑历史中的事件日期；需结合同一历史项的动作和软件看待，不代表起笔或工时。原值包含时区标记，未进行自动换算。"
+          }
+        ],
+        "warnings": [],
+        "width": 240,
+        "height": 180,
+        "limits": "支持 PNG 文本/tIME/eXIf、JPEG 标准 APP1 EXIF/XMP、Photoshop APP13 的 IPTC/XMP 与 COM 注释、WebP EXIF/XMP。识别 XMP 编辑历史和常见 PNG 日期别名。最多检查10000个块/段，单块1 MiB，累计4 MiB、200个展示字段；不读取 GPS、私有 MakerNote、ICC 内容或缩略图，不验证签名和完整图像解码；扩展 XMP、同一包内重复属性及其他未支持数据请用 ExifTool 复核。",
+        "diagnostics": {
+          "parserVersion": 36,
+          "containers": {
+            "APP1": 1,
+            "APP0": 1,
+            "marker-db": 2,
+            "marker-c0": 1,
+            "marker-c4": 4,
+            "marker-da": 1
+          },
+          "attempts": [
+            {
+              "source": "JPEG/APP1#1/XMP",
+              "type": "XMP",
+              "bytes": 508,
+              "status": "parsed",
+              "fields": 3
+            }
+          ],
+          "skippedFields": 1,
+          "state": "extracted",
+          "summary": "已成功读取 3 项展示字段；软件和日期是否存在需分别查看。",
+          "scanned": 10
+        }
+      }
+    },
+    {
+      "file": "date-aliases.png",
+      "reference": {
+        "SourceFile": "tools/fixtures/metadata/date-aliases.png",
+        "ExifTool:ExifToolVersion": 13.63,
+        "System:FileName": "date-aliases.png",
+        "System:Directory": "tools/fixtures/metadata",
+        "System:FileSize": "1591 bytes",
+        "System:FileModifyDate": "2026:11:15 19:11:34+08:00",
+        "System:FileAccessDate": "2026:11:15 19:12:18+08:00",
+        "System:FileCreateDate": "2026:11:15 19:11:34+08:00",
+        "System:FilePermissions": "-rw-rw-rw-",
+        "File:FileType": "PNG",
+        "File:FileTypeExtension": "png",
+        "File:MIMEType": "image/png",
+        "PNG:ImageWidth": 240,
+        "PNG:ImageHeight": 180,
+        "PNG:BitDepth": 8,
+        "PNG:ColorType": "RGB",
+        "PNG:Compression": "Deflate/Inflate",
+        "PNG:Filter": "Adaptive",
+        "PNG:Interlace": "Noninterlaced",
+        "PNG:Datecreate": "2025-01-02T03:04:05+08:00",
+        "PNG:Datemodify": "2025-01-03T04:05:06+08:00",
+        "Composite:ImageSize": "240x180",
+        "Composite:Megapixels": 0.043
+      },
+      "actual": {
+        "format": "PNG",
+        "supported": true,
+        "fields": [
+          {
+            "source": "PNG/tEXt#2",
+            "tag": "date:create",
+            "value": "2025-01-02T03:04:05+08:00",
+            "kind": "time",
+            "explanation": "创建/生成日期声明；不代表真实作画起止或工时。原值包含时区标记，未进行自动换算。"
+          },
+          {
+            "source": "PNG/tEXt#3",
+            "tag": "date:modify",
+            "value": "2025-01-03T04:05:06+08:00",
+            "kind": "time",
+            "explanation": "图像修改/保存日期声明；不等于最后一笔。原值包含时区标记，未进行自动换算。"
+          }
+        ],
+        "warnings": [],
+        "width": 240,
+        "height": 180,
+        "limits": "支持 PNG 文本/tIME/eXIf、JPEG 标准 APP1 EXIF/XMP、Photoshop APP13 的 IPTC/XMP 与 COM 注释、WebP EXIF/XMP。识别 XMP 编辑历史和常见 PNG 日期别名。最多检查10000个块/段，单块1 MiB，累计4 MiB、200个展示字段；不读取 GPS、私有 MakerNote、ICC 内容或缩略图，不验证签名和完整图像解码；扩展 XMP、同一包内重复属性及其他未支持数据请用 ExifTool 复核。",
+        "diagnostics": {
+          "parserVersion": 36,
+          "containers": {
+            "IHDR": 1,
+            "tEXt": 2,
+            "IDAT": 1,
+            "IEND": 1
+          },
+          "attempts": [
+            {
+              "source": "PNG/tEXt#2",
+              "type": "tEXt",
+              "bytes": 37,
+              "status": "parsed",
+              "fields": 1
+            },
+            {
+              "source": "PNG/tEXt#3",
+              "type": "tEXt",
+              "bytes": 37,
+              "status": "parsed",
+              "fields": 1
+            }
+          ],
+          "skippedFields": 0,
+          "state": "extracted",
+          "summary": "已成功读取 2 项展示字段；软件和日期是否存在需分别查看。",
+          "scanned": 5
+        }
+      }
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "reference": {
+        "SourceFile": "tools/fixtures/metadata/text-exif-xmp.png",
+        "ExifTool:ExifToolVersion": 13.63,
+        "System:FileName": "text-exif-xmp.png",
+        "System:Directory": "tools/fixtures/metadata",
+        "System:FileSize": "2.4 kB",
+        "System:FileModifyDate": "2026:11:15 19:11:34+08:00",
+        "System:FileAccessDate": "2026:11:15 19:12:18+08:00",
+        "System:FileCreateDate": "2026:11:15 17:40:42+08:00",
+        "System:FilePermissions": "-rw-rw-rw-",
+        "File:FileType": "PNG",
+        "File:FileTypeExtension": "png",
+        "File:MIMEType": "image/png",
+        "File:ExifByteOrder": "Little-endian (Intel, II)",
+        "PNG:ImageWidth": 240,
+        "PNG:ImageHeight": 180,
+        "PNG:BitDepth": 8,
+        "PNG:ColorType": "RGB",
+        "PNG:Compression": "Deflate/Inflate",
+        "PNG:Filter": "Adaptive",
+        "PNG:Interlace": "Noninterlaced",
+        "PNG:Software": "Demo PNG Tool",
+        "PNG:Author": "原创测试作者",
+        "PNG:Description": "测试 UTF-8 压缩文本",
+        "PNG:Comment": "Compressed Latin-1 text",
+        "IFD0:Software": "Demo Painter A",
+        "IFD0:ModifyDate": "2021:02:03 04:05:06",
+        "IFD0:Artist": "Demo Artist",
+        "ExifIFD:DateTimeOriginal": "2020:01:02 03:04:05",
+        "ExifIFD:OffsetTimeOriginal": "+08:00",
+        "XMP-xmp:CreatorTool": "Demo Exporter B",
+        "XMP-xmp:CreateDate": "2022:04:05 06:07:08+08:00",
+        "XMP-xmp:ModifyDate": "2022:04:04 23:07:08-07:00",
+        "XMP-tiff:Software": "Demo Tool C",
+        "XMP-dc:Creator": "教学作者小鹿",
+        "Composite:ImageSize": "240x180",
+        "Composite:Megapixels": 0.043,
+        "Composite:SubSecDateTimeOriginal": "2020:01:02 03:04:05+08:00"
+      },
+      "actual": {
+        "format": "PNG",
+        "supported": true,
+        "fields": [
+          {
+            "source": "PNG/tEXt#2",
+            "tag": "Software",
+            "value": "Demo PNG Tool",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "PNG/eXIf#3/EXIF/ifd0",
+            "tag": "Software",
+            "value": "Demo Painter A",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "PNG/eXIf#3/EXIF/ifd0",
+            "tag": "ModifyDate",
+            "value": "2021:02:03 04:05:06",
+            "kind": "time",
+            "explanation": "图像修改/保存日期声明；不等于最后一笔。原值未见明确时区，不能直接与其他时区排序。"
+          },
+          {
+            "source": "PNG/eXIf#3/EXIF/ifd0",
+            "tag": "Artist",
+            "value": "Demo Artist",
+            "kind": "credit",
+            "explanation": "作者/权利相关声明，未经身份与权利验证；ICC版权通常属于配置文件。"
+          },
+          {
+            "source": "PNG/eXIf#3/EXIF/exif",
+            "tag": "DateTimeOriginal",
+            "value": "2020:01:02 03:04:05",
+            "kind": "time",
+            "explanation": "原始图像生成日期声明，常用于拍摄；插画中不保证是起笔时刻。原值未见明确时区，不能直接与其他时区排序。"
+          },
+          {
+            "source": "PNG/eXIf#3/EXIF/exif",
+            "tag": "OffsetTimeOriginal",
+            "value": "+08:00",
+            "kind": "time",
+            "explanation": "EXIF对应日期的时区偏移，需与同组日期配对；不是独立事件。"
+          },
+          {
+            "source": "PNG/iTXt#4/XMP/xmp",
+            "tag": "CreatorTool",
+            "value": "Demo Exporter B",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "PNG/iTXt#4/XMP/xmp",
+            "tag": "CreateDate",
+            "value": "2022-04-05T06:07:08+08:00",
+            "kind": "time",
+            "explanation": "创建/生成日期声明；不代表真实作画起止或工时。原值包含时区标记，未进行自动换算。"
+          },
+          {
+            "source": "PNG/iTXt#4/XMP/xmp",
+            "tag": "ModifyDate",
+            "value": "2022-04-04T23:07:08-07:00",
+            "kind": "time",
+            "explanation": "图像修改/保存日期声明；不等于最后一笔。原值包含时区标记，未进行自动换算。"
+          },
+          {
+            "source": "PNG/iTXt#4/XMP/tiff",
+            "tag": "Software",
+            "value": "Demo Tool C",
+            "kind": "software",
+            "explanation": "文件声明的参与工具；可能是后期、编码或导出软件，不能确认最初绘画软件。"
+          },
+          {
+            "source": "PNG/iTXt#4/XMP/dc",
+            "tag": "creator",
+            "value": "教学作者小鹿",
+            "kind": "credit",
+            "explanation": "作者/权利相关声明，未经身份与权利验证；ICC版权通常属于配置文件。"
+          },
+          {
+            "source": "PNG/iTXt#5",
+            "tag": "Author",
+            "value": "原创测试作者",
+            "kind": "credit",
+            "explanation": "作者/权利相关声明，未经身份与权利验证；ICC版权通常属于配置文件。"
+          },
+          {
+            "source": "PNG/iTXt#6",
+            "tag": "Description",
+            "value": "测试 UTF-8 压缩文本",
+            "kind": "other",
+            "explanation": "现存描述字段，按原值展示；不是来源认证。"
+          },
+          {
+            "source": "PNG/zTXt#7",
+            "tag": "Comment",
+            "value": "Compressed Latin-1 text",
+            "kind": "other",
+            "explanation": "现存描述字段，按原值展示；不是来源认证。"
+          }
+        ],
+        "warnings": [],
+        "width": 240,
+        "height": 180,
+        "limits": "支持 PNG 文本/tIME/eXIf、JPEG 标准 APP1 EXIF/XMP、Photoshop APP13 的 IPTC/XMP 与 COM 注释、WebP EXIF/XMP。识别 XMP 编辑历史和常见 PNG 日期别名。最多检查10000个块/段，单块1 MiB，累计4 MiB、200个展示字段；不读取 GPS、私有 MakerNote、ICC 内容或缩略图，不验证签名和完整图像解码；扩展 XMP、同一包内重复属性及其他未支持数据请用 ExifTool 复核。",
+        "diagnostics": {
+          "parserVersion": 36,
+          "containers": {
+            "IHDR": 1,
+            "tEXt": 1,
+            "eXIf": 1,
+            "iTXt": 3,
+            "zTXt": 1,
+            "IDAT": 1,
+            "IEND": 1
+          },
+          "attempts": [
+            {
+              "source": "PNG/tEXt#2",
+              "type": "tEXt",
+              "bytes": 22,
+              "status": "parsed",
+              "fields": 1
+            },
+            {
+              "source": "PNG/eXIf#3/EXIF",
+              "type": "TIFF",
+              "bytes": 202,
+              "status": "parsed",
+              "fields": 5
+            },
+            {
+              "source": "PNG/iTXt#4",
+              "type": "iTXt",
+              "bytes": 535,
+              "status": "parsed",
+              "fields": 5
+            },
+            {
+              "source": "PNG/iTXt#4/XMP",
+              "type": "XMP",
+              "bytes": 513,
+              "status": "parsed",
+              "fields": 5
+            },
+            {
+              "source": "PNG/iTXt#5",
+              "type": "iTXt",
+              "bytes": 29,
+              "status": "parsed",
+              "fields": 1
+            },
+            {
+              "source": "PNG/iTXt#6",
+              "type": "iTXt",
+              "bytes": 50,
+              "status": "parsed",
+              "fields": 1
+            },
+            {
+              "source": "PNG/zTXt#7",
+              "type": "zTXt",
+              "bytes": 40,
+              "status": "parsed",
+              "fields": 1
+            }
+          ],
+          "skippedFields": 0,
+          "state": "extracted",
+          "summary": "已成功读取 14 项展示字段；软件和日期是否存在需分别查看。",
+          "scanned": 9
+        }
+      }
+    }
+  ],
+  "verifiedFields": [
+    {
+      "file": "reference-iptc.jpg",
+      "tag": "OriginatingProgram",
+      "referenceTag": "IPTC:OriginatingProgram",
+      "passed": true
+    },
+    {
+      "file": "reference-iptc.jpg",
+      "tag": "ProgramVersion",
+      "referenceTag": "IPTC:ProgramVersion",
+      "passed": true
+    },
+    {
+      "file": "reference-iptc.jpg",
+      "tag": "DateCreated",
+      "referenceTag": "IPTC:DateCreated",
+      "passed": true
+    },
+    {
+      "file": "reference-iptc.jpg",
+      "tag": "TimeCreated",
+      "referenceTag": "IPTC:TimeCreated",
+      "passed": true
+    },
+    {
+      "file": "reference-iptc.jpg",
+      "tag": "Comment",
+      "referenceTag": "File:Comment",
+      "passed": true
+    },
+    {
+      "file": "history-xmp.jpg",
+      "tag": "softwareAgent",
+      "referenceTag": "XMP-xmpMM:HistorySoftwareAgent",
+      "passed": true
+    },
+    {
+      "file": "history-xmp.jpg",
+      "tag": "when",
+      "referenceTag": "XMP-xmpMM:HistoryWhen",
+      "passed": true
+    },
+    {
+      "file": "history-xmp.jpg",
+      "tag": "action",
+      "referenceTag": "XMP-xmpMM:HistoryAction",
+      "passed": true
+    },
+    {
+      "file": "date-aliases.png",
+      "tag": "date:create",
+      "referenceTag": "PNG:Datecreate",
+      "passed": true
+    },
+    {
+      "file": "date-aliases.png",
+      "tag": "date:modify",
+      "referenceTag": "PNG:Datemodify",
+      "passed": true
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "tag": "Software",
+      "referenceTag": "PNG:Software",
+      "passed": true
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "tag": "Software",
+      "referenceTag": "IFD0:Software",
+      "passed": true
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "tag": "Software",
+      "referenceTag": "XMP-tiff:Software",
+      "passed": true
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "tag": "CreatorTool",
+      "referenceTag": "XMP-xmp:CreatorTool",
+      "passed": true
+    }
+  ]
+}

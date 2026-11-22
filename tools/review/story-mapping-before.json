@@ -1,0 +1,583 @@
+[
+  {
+    "route": "start/ch02",
+    "title": "赛璐璐、厚涂、半厚涂：一眼分辨与选型",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "start/ch04",
+    "title": "学习路径：从零到能接稿的十二个月",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "start/ch06",
+    "title": "画布、分辨率、色彩管理：一开始就设对",
+    "figures": [
+      "perspective"
+    ]
+  },
+  {
+    "route": "start/ch08",
+    "title": "练习的科学：刻意练习、临摹、写生、默写",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "fundamentals/ch01",
+    "title": "线条：从抖线到有呼吸的线",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "fundamentals/ch02",
+    "title": "头部结构：十字线、三庭与五官定位",
+    "figures": [
+      "head"
+    ]
+  },
+  {
+    "route": "fundamentals/ch03",
+    "title": "面部角度：正面、3/4、侧面、仰俯",
+    "figures": [
+      "angle"
+    ]
+  },
+  {
+    "route": "fundamentals/ch04",
+    "title": "眼睛专项：结构、神态与二次元简化",
+    "figures": [
+      "eye"
+    ]
+  },
+  {
+    "route": "fundamentals/ch05",
+    "title": "鼻子、嘴、耳朵：少画但要对",
+    "figures": [
+      "head"
+    ]
+  },
+  {
+    "route": "fundamentals/ch06",
+    "title": "头发：分组、发流、发梢与呆毛",
+    "figures": [
+      "hair"
+    ]
+  },
+  {
+    "route": "fundamentals/ch07",
+    "title": "人体比例与体块：先搭骨架，再画肌肉",
+    "figures": [
+      "body"
+    ]
+  },
+  {
+    "route": "fundamentals/ch08",
+    "title": "手与脚：结构与常见错误",
+    "figures": [
+      "hand"
+    ]
+  },
+  {
+    "route": "fundamentals/ch09",
+    "title": "动态与重心：让姿势“站得住”",
+    "figures": [
+      "body"
+    ]
+  },
+  {
+    "route": "fundamentals/ch10",
+    "title": "衣褶逻辑：只画被拉紧和堆起来的地方",
+    "figures": [
+      "cloth"
+    ]
+  },
+  {
+    "route": "fundamentals/ch11",
+    "title": "构图与透视：把角色放进空间",
+    "figures": [
+      "perspective"
+    ]
+  },
+  {
+    "route": "fundamentals/ch12",
+    "title": "明暗与体积：三大面五大调",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "fundamentals/ch13",
+    "title": "结构速写 30 天：把地基变成手",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "cel/ch01",
+    "title": "赛璐璐的审美与底层逻辑",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "cel/ch02",
+    "title": "色阶系统：一层阴影到底够不够",
+    "figures": [
+      "color"
+    ]
+  },
+  {
+    "route": "cel/ch03",
+    "title": "阴影形状设计：把结构翻译成图形",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "cel/ch04",
+    "title": "光源、明暗交界线与投影",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "cel/ch05",
+    "title": "闭塞与二阴：深度控制",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "cel/ch06",
+    "title": "高光与边缘光：完成度的最后一公里",
+    "figures": [
+      "material"
+    ]
+  },
+  {
+    "route": "cel/ch07",
+    "title": "颜色：底色、阴影色相与环境色",
+    "figures": [
+      "color"
+    ]
+  },
+  {
+    "route": "cel/ch08",
+    "title": "图层结构与线稿配合",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "cel/ch09",
+    "title": "材质专项：皮肤、头发、眼睛、布料、金属",
+    "figures": [
+      "material"
+    ]
+  },
+  {
+    "route": "cel/ch10",
+    "title": "完整示范：从草稿到成图的七道工序",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "cel/ch11",
+    "title": "常见病诊断：脏、灰、糊、平、焦",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "cel/ch12",
+    "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "ipad/ch02",
+    "title": "Procreate 界面与手势全解",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "ipad/ch03",
+    "title": "笔刷工作室：参数与自制赛璐璐笔刷",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "ipad/ch04",
+    "title": "图层与混合模式：赛璐璐的工程基础",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "ipad/ch05",
+    "title": "选区、变换、对称与参考",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "ipad/ch09",
+    "title": "Procreate 赛璐璐完整工作流：30 步照做",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "sai2/ch03",
+    "title": "笔刷系统：通常、水彩、马克笔、二值笔",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "sai2/ch04",
+    "title": "防抖与笔压曲线：勾线的灵魂",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "sai2/ch05",
+    "title": "图层、选区与剪贴蒙版",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "sai2/ch06",
+    "title": "SAI2 赛璐璐上色流程",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "sai2/ch09",
+    "title": "SAI2 赛璐璐完整工作流：25 步照做",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "csp/ch03",
+    "title": "矢量图层：线稿的终极答案",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "csp/ch04",
+    "title": "网点与漫画工具：灰度的另一种写法",
+    "figures": [
+      "color"
+    ]
+  },
+  {
+    "route": "csp/ch06",
+    "title": "3D 人偶与姿势参考：摆姿势，不描图",
+    "figures": [
+      "body"
+    ]
+  },
+  {
+    "route": "csp/ch09",
+    "title": "CSP 赛璐璐工作流与跨软件协作",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "csp/ch10",
+    "title": "CSP 矢量赛璐璐完整工作流：30 步照做",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "ps/ch03",
+    "title": "混合模式：绘画向的四个核心",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "ps/ch04",
+    "title": "曲线、色阶、色相饱和度与色彩平衡",
+    "figures": [
+      "curves"
+    ]
+  },
+  {
+    "route": "ps/ch05",
+    "title": "渐变映射与色调分离",
+    "figures": [
+      "color"
+    ]
+  },
+  {
+    "route": "ps/ch09",
+    "title": "完整后期流程：从导出到成图",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "ps/ch11",
+    "title": "PS 后期完整工作流：20 步与参数",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "live2d/ch01",
+    "title": "Live2D 是什么：从一张画到会呼吸的角色",
+    "figures": [
+      "mesh"
+    ]
+  },
+  {
+    "route": "live2d/ch03",
+    "title": "分层规范：为绑定而画",
+    "figures": [
+      "layers"
+    ]
+  },
+  {
+    "route": "live2d/ch04",
+    "title": "网格与变形器：让平面弯起来",
+    "figures": [
+      "mesh"
+    ]
+  },
+  {
+    "route": "live2d/ch05",
+    "title": "参数系统：一个滑块，一条表情",
+    "figures": [
+      "mesh"
+    ]
+  },
+  {
+    "route": "live2d/ch06",
+    "title": "物理演算：头发、衣服、饰品",
+    "figures": [
+      "mesh"
+    ]
+  },
+  {
+    "route": "live2d/ch09",
+    "title": "完整做一个会动的头像",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "live2d/ch11",
+    "title": "从 PSD 到 VTube Studio：完整 30 步",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "career/ch02",
+    "title": "米画师全流程：从入驻到交付",
+    "figures": [
+      "brief"
+    ]
+  },
+  {
+    "route": "career/ch04",
+    "title": "定价体系：报价不是“我觉得值多少”",
+    "figures": [
+      "brief"
+    ]
+  },
+  {
+    "route": "career/ch06",
+    "title": "合同与版权：明确授权范围",
+    "figures": [
+      "brief"
+    ]
+  },
+  {
+    "route": "career/ch07",
+    "title": "甲方沟通：需求、草图、修改轮次",
+    "figures": [
+      "brief"
+    ]
+  },
+  {
+    "route": "career/ch11",
+    "title": "合同与报价模板：可直接改",
+    "figures": [
+      "brief"
+    ]
+  },
+  {
+    "route": "safety/ch01",
+    "title": "画师为什么会被骗：骗局不是“笨”，是流程",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "safety/ch02",
+    "title": "假甲方剧本：从“我很喜欢你”到“先垫付”",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "safety/ch03",
+    "title": "“做任务/扫码下载APP才能收钱”为什么几乎一定是骗局",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "safety/ch09",
+    "title": "被网暴了怎么办：24 小时 / 7 天 / 30 天",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "safety/ch11",
+    "title": "画师安全工具箱：账号、设备、支付、隐私",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "safety/ch12",
+    "title": "一页纸安全清单：接稿前 / 中 / 后",
+    "figures": [
+      "safety"
+    ]
+  },
+  {
+    "route": "r18/ch01",
+    "title": "先划清边界：R18、R15、软色情与违法内容",
+    "figures": [
+      "review"
+    ]
+  },
+  {
+    "route": "r18/ch03",
+    "title": "审稿人视角：四象限判断",
+    "figures": [
+      "review"
+    ]
+  },
+  {
+    "route": "r18/ch04",
+    "title": "年龄疑义：暂停与拒稿边界",
+    "figures": [
+      "review"
+    ]
+  },
+  {
+    "route": "r18/ch09",
+    "title": "20 项审稿清单：接、改、还是拒",
+    "figures": [
+      "review"
+    ]
+  },
+  {
+    "route": "r18/ch11",
+    "title": "审稿案例：三种典型情况",
+    "figures": [
+      "review"
+    ]
+  },
+  {
+    "route": "myths/ch02",
+    "title": "需要从传统素描开始练吗？—— 素描的真正作用",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "myths/ch05",
+    "title": "报班还是自学：如何选课、如何避坑",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "myths/ch08",
+    "title": "每天画多久？练习量与方法",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "myths/ch12",
+    "title": "描图、临摹、参考动作：到底怎么算",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "practice/ch01",
+    "title": "诊断：找到你的短板",
+    "figures": [
+      "feedback"
+    ]
+  },
+  {
+    "route": "practice/ch02",
+    "title": "线条 7 天：从抖线到可控",
+    "figures": [
+      "line"
+    ]
+  },
+  {
+    "route": "practice/ch03",
+    "title": "头部 14 天：角度与五官",
+    "figures": [
+      "head"
+    ]
+  },
+  {
+    "route": "practice/ch04",
+    "title": "人体 30 天：比例、体块与动态",
+    "figures": [
+      "body"
+    ]
+  },
+  {
+    "route": "practice/ch05",
+    "title": "赛璐璐 21 天：从色阶到成图",
+    "figures": [
+      "light"
+    ]
+  },
+  {
+    "route": "practice/ch06",
+    "title": "完整作品 7 步法：从想法到交付",
+    "figures": [
+      "workflow"
+    ]
+  },
+  {
+    "route": "practice/ch08",
+    "title": "反馈与复盘：让每一张都算数",
+    "figures": [
+      "feedback"
+    ]
+  }
+]

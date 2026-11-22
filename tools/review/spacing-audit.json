@@ -1,0 +1,1622 @@
+{
+  "date": "2026-11-15",
+  "moduleLayouts": [
+    {
+      "viewport": 320,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "入门前夜",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": -13.88104248046875
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "造型地基",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 19.122650146484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "赛璐璐专精",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 28.7894287109375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "iPad · Procreate",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 31.92010498046875
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "SAI2",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.39923095703125
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "Clip Studio Paint",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "Photoshop 后期",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "Live2D",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "接稿与商业",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "互联网安全",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "R18 审稿边界",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "迷思与真相",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "练习体系",
+      "width": 310,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "入门前夜",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "造型地基",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "赛璐璐专精",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "iPad · Procreate",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "SAI2",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "Clip Studio Paint",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "Photoshop 后期",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "Live2D",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "接稿与商业",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "互联网安全",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "R18 审稿边界",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "迷思与真相",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 390,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 380,
+      "title": "练习体系",
+      "width": 380,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 20,
+        "padding": "4px",
+        "sidebarGap": 32.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "入门前夜",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "造型地基",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "赛璐璐专精",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "iPad · Procreate",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "SAI2",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "Clip Studio Paint",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "Photoshop 后期",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "Live2D",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "接稿与商业",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "互联网安全",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "R18 审稿边界",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "迷思与真相",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 768,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 758,
+      "title": "练习体系",
+      "width": 758,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "入门前夜",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "造型地基",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "赛璐璐专精",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "iPad · Procreate",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "SAI2",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "Clip Studio Paint",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "Photoshop 后期",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "Live2D",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "接稿与商业",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "互联网安全",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "R18 审稿边界",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "迷思与真相",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1024,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1014,
+      "title": "练习体系",
+      "width": 1014,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "入门前夜",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "造型地基",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "赛璐璐专精",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "iPad · Procreate",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "SAI2",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "Clip Studio Paint",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "Photoshop 后期",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "Live2D",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "接稿与商业",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "互联网安全",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "R18 审稿边界",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "迷思与真相",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1200,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1190,
+      "title": "练习体系",
+      "width": 1190,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 42,
+        "padding": "20px",
+        "sidebarGap": 54.399993896484375
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "入门前夜",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "造型地基",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "赛璐璐专精",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "iPad · Procreate",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "SAI2",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "Clip Studio Paint",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "Photoshop 后期",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "Live2D",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "接稿与商业",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "互联网安全",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "R18 审稿边界",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "迷思与真相",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "练习体系",
+      "width": 1191,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 338.015625,
+        "padding": "36.03px",
+        "sidebarGap": 36.015625
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "入门前夜",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "造型地基",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "赛璐璐专精",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "iPad · Procreate",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "SAI2",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "Clip Studio Paint",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "Photoshop 后期",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "Live2D",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "接稿与商业",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "互联网安全",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "R18 审稿边界",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "迷思与真相",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "练习体系",
+      "width": 1430,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 345.1875,
+        "padding": "43.2px",
+        "sidebarGap": 43.1875
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/start",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "入门前夜",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/fundamentals",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "造型地基",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/cel",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "赛璐璐专精",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/ipad",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "iPad · Procreate",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/sai2",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "SAI2",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/csp",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "Clip Studio Paint",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/ps",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "Photoshop 后期",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/live2d",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "Live2D",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/career",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "接稿与商业",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/safety",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "互联网安全",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/r18",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "R18 审稿边界",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/myths",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "迷思与真相",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    },
+    {
+      "viewport": 2048,
+      "route": "#/m/practice",
+      "check": 0,
+      "issues": [],
+      "pageScroll": 2038,
+      "title": "练习体系",
+      "width": 2038,
+      "spacing": {
+        "aligned": true,
+        "contentLeft": 549,
+        "padding": "48px",
+        "sidebarGap": 48
+      }
+    }
+  ],
+  "chapterLayouts": [
+    {
+      "viewport": 320,
+      "route": "#/m/myths/ch01",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "学插画需要买书吗？—— 书单与用法",
+      "width": 310
+    },
+    {
+      "viewport": 320,
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 310,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 310
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/myths/ch01",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "学插画需要买书吗？—— 书单与用法",
+      "width": 1191
+    },
+    {
+      "viewport": 1201,
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1191,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 1191
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/myths/ch01",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "学插画需要买书吗？—— 书单与用法",
+      "width": 1430
+    },
+    {
+      "viewport": 1440,
+      "route": "#/m/cel/ch12",
+      "check": 1,
+      "issues": [],
+      "pageScroll": 1430,
+      "title": "赛璐璐 40 步完整示范：含图层、颜色与参数",
+      "width": 1430
+    }
+  ],
+  "logs": []
+}

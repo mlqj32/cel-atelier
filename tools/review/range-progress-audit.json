@@ -1,0 +1,1578 @@
+{
+  "date": "2026-11-15",
+  "demos": 15,
+  "controls": 36,
+  "stateChecks": 144,
+  "errors": [],
+  "states": [
+    {
+      "demo": "cel-palette",
+      "initial": {
+        "height": 32,
+        "id": "cp-h",
+        "max": "360",
+        "min": "0",
+        "p": 73.61111111111111,
+        "progress": "73.61111111111111%",
+        "value": "265"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "cp-h",
+        "max": "360",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "cp-h",
+        "max": "360",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "360"
+      },
+      "changed": {
+        "height": 32,
+        "id": "cp-h",
+        "max": "360",
+        "min": "0",
+        "p": 99.72222222222224,
+        "progress": "99.72222222222223%",
+        "value": "359"
+      }
+    },
+    {
+      "demo": "cel-palette",
+      "initial": {
+        "height": 32,
+        "id": "cp-s",
+        "max": "60",
+        "min": "-40",
+        "p": 66,
+        "progress": "66%",
+        "value": "26"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "cp-s",
+        "max": "60",
+        "min": "-40",
+        "p": 0,
+        "progress": "0%",
+        "value": "-40"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "cp-s",
+        "max": "60",
+        "min": "-40",
+        "p": 100,
+        "progress": "100%",
+        "value": "60"
+      },
+      "changed": {
+        "height": 32,
+        "id": "cp-s",
+        "max": "60",
+        "min": "-40",
+        "p": 99,
+        "progress": "99%",
+        "value": "59"
+      }
+    },
+    {
+      "demo": "line-drill",
+      "initial": {
+        "height": 32,
+        "id": "ld-sm",
+        "max": "90",
+        "min": "0",
+        "p": 38.88888888888889,
+        "progress": "38.88888888888889%",
+        "value": "35"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ld-sm",
+        "max": "90",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ld-sm",
+        "max": "90",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "90"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ld-sm",
+        "max": "90",
+        "min": "0",
+        "p": 98.88888888888889,
+        "progress": "98.88888888888889%",
+        "value": "89"
+      }
+    },
+    {
+      "demo": "line-drill",
+      "initial": {
+        "height": 32,
+        "id": "ld-jit",
+        "max": "12",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ld-jit",
+        "max": "12",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ld-jit",
+        "max": "12",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "12"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ld-jit",
+        "max": "12",
+        "min": "0",
+        "p": 91.66666666666666,
+        "progress": "91.66666666666666%",
+        "value": "11"
+      }
+    },
+    {
+      "demo": "line-drill",
+      "initial": {
+        "height": 32,
+        "id": "ld-w",
+        "max": "18",
+        "min": "1",
+        "p": 23.52941176470588,
+        "progress": "23.52941176470588%",
+        "value": "5"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ld-w",
+        "max": "18",
+        "min": "1",
+        "p": 0,
+        "progress": "0%",
+        "value": "1"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ld-w",
+        "max": "18",
+        "min": "1",
+        "p": 100,
+        "progress": "100%",
+        "value": "18"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ld-w",
+        "max": "18",
+        "min": "1",
+        "p": 94.11764705882352,
+        "progress": "94.11764705882352%",
+        "value": "17"
+      }
+    },
+    {
+      "demo": "head-angle",
+      "initial": {
+        "height": 32,
+        "id": "ha-y",
+        "max": "45",
+        "min": "-45",
+        "p": 50,
+        "progress": "50%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ha-y",
+        "max": "45",
+        "min": "-45",
+        "p": 0,
+        "progress": "0%",
+        "value": "-45"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ha-y",
+        "max": "45",
+        "min": "-45",
+        "p": 100,
+        "progress": "100%",
+        "value": "45"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ha-y",
+        "max": "45",
+        "min": "-45",
+        "p": 98.88888888888889,
+        "progress": "98.88888888888889%",
+        "value": "44"
+      }
+    },
+    {
+      "demo": "head-angle",
+      "initial": {
+        "height": 32,
+        "id": "ha-p",
+        "max": "30",
+        "min": "-30",
+        "p": 50,
+        "progress": "50%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ha-p",
+        "max": "30",
+        "min": "-30",
+        "p": 0,
+        "progress": "0%",
+        "value": "-30"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ha-p",
+        "max": "30",
+        "min": "-30",
+        "p": 100,
+        "progress": "100%",
+        "value": "30"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ha-p",
+        "max": "30",
+        "min": "-30",
+        "p": 98.33333333333331,
+        "progress": "98.33333333333333%",
+        "value": "29"
+      }
+    },
+    {
+      "demo": "proportion",
+      "initial": {
+        "height": 32,
+        "id": "pr-h",
+        "max": "8",
+        "min": "2",
+        "p": 75,
+        "progress": "75%",
+        "value": "6.5"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pr-h",
+        "max": "8",
+        "min": "2",
+        "p": 0,
+        "progress": "0%",
+        "value": "2"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pr-h",
+        "max": "8",
+        "min": "2",
+        "p": 100,
+        "progress": "100%",
+        "value": "8"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pr-h",
+        "max": "8",
+        "min": "2",
+        "p": 91.66666666666666,
+        "progress": "91.66666666666666%",
+        "value": "7.5"
+      }
+    },
+    {
+      "demo": "procreate-brush",
+      "initial": {
+        "height": 32,
+        "id": "pb-sp",
+        "max": "40",
+        "min": "2",
+        "p": 15.789473684210526,
+        "progress": "15.789473684210526%",
+        "value": "8"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pb-sp",
+        "max": "40",
+        "min": "2",
+        "p": 0,
+        "progress": "0%",
+        "value": "2"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pb-sp",
+        "max": "40",
+        "min": "2",
+        "p": 100,
+        "progress": "100%",
+        "value": "40"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pb-sp",
+        "max": "40",
+        "min": "2",
+        "p": 97.36842105263158,
+        "progress": "97.36842105263158%",
+        "value": "39"
+      }
+    },
+    {
+      "demo": "procreate-brush",
+      "initial": {
+        "height": 32,
+        "id": "pb-jt",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pb-jt",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pb-jt",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pb-jt",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "procreate-brush",
+      "initial": {
+        "height": 32,
+        "id": "pb-tp",
+        "max": "100",
+        "min": "0",
+        "p": 55,
+        "progress": "55%",
+        "value": "55"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pb-tp",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pb-tp",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pb-tp",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "procreate-brush",
+      "initial": {
+        "height": 32,
+        "id": "pb-ps",
+        "max": "100",
+        "min": "0",
+        "p": 85,
+        "progress": "85%",
+        "value": "85"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pb-ps",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pb-ps",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pb-ps",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "sai-watercolor",
+      "initial": {
+        "height": 32,
+        "id": "sw-w",
+        "max": "95",
+        "min": "5",
+        "p": 44.44444444444444,
+        "progress": "44.44444444444444%",
+        "value": "45"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "sw-w",
+        "max": "95",
+        "min": "5",
+        "p": 0,
+        "progress": "0%",
+        "value": "5"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "sw-w",
+        "max": "95",
+        "min": "5",
+        "p": 100,
+        "progress": "100%",
+        "value": "95"
+      },
+      "changed": {
+        "height": 32,
+        "id": "sw-w",
+        "max": "95",
+        "min": "5",
+        "p": 98.88888888888889,
+        "progress": "98.88888888888889%",
+        "value": "94"
+      }
+    },
+    {
+      "demo": "sai-watercolor",
+      "initial": {
+        "height": 32,
+        "id": "sw-s",
+        "max": "60",
+        "min": "4",
+        "p": 39.285714285714285,
+        "progress": "39.285714285714285%",
+        "value": "26"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "sw-s",
+        "max": "60",
+        "min": "4",
+        "p": 0,
+        "progress": "0%",
+        "value": "4"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "sw-s",
+        "max": "60",
+        "min": "4",
+        "p": 100,
+        "progress": "100%",
+        "value": "60"
+      },
+      "changed": {
+        "height": 32,
+        "id": "sw-s",
+        "max": "60",
+        "min": "4",
+        "p": 98.21428571428572,
+        "progress": "98.21428571428571%",
+        "value": "59"
+      }
+    },
+    {
+      "demo": "sai-stabilizer",
+      "initial": {
+        "height": 32,
+        "id": "ss-s",
+        "max": "10",
+        "min": "0",
+        "p": 70,
+        "progress": "70%",
+        "value": "7"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ss-s",
+        "max": "10",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ss-s",
+        "max": "10",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "10"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ss-s",
+        "max": "10",
+        "min": "0",
+        "p": 90,
+        "progress": "90%",
+        "value": "9"
+      }
+    },
+    {
+      "demo": "csp-vector",
+      "initial": {
+        "height": 32,
+        "id": "cv-z",
+        "max": "4",
+        "min": "1",
+        "p": 0,
+        "progress": "0%",
+        "value": "1"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "cv-z",
+        "max": "4",
+        "min": "1",
+        "p": 0,
+        "progress": "0%",
+        "value": "1"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "cv-z",
+        "max": "4",
+        "min": "1",
+        "p": 100,
+        "progress": "100%",
+        "value": "4"
+      },
+      "changed": {
+        "height": 32,
+        "id": "cv-z",
+        "max": "4",
+        "min": "1",
+        "p": 96.66666666666669,
+        "progress": "96.66666666666667%",
+        "value": "3.9"
+      }
+    },
+    {
+      "demo": "csp-tone",
+      "initial": {
+        "height": 32,
+        "id": "ct-d",
+        "max": "95",
+        "min": "8",
+        "p": 48.27586206896552,
+        "progress": "48.275862068965516%",
+        "value": "50"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ct-d",
+        "max": "95",
+        "min": "8",
+        "p": 0,
+        "progress": "0%",
+        "value": "8"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ct-d",
+        "max": "95",
+        "min": "8",
+        "p": 100,
+        "progress": "100%",
+        "value": "95"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ct-d",
+        "max": "95",
+        "min": "8",
+        "p": 98.85057471264368,
+        "progress": "98.85057471264368%",
+        "value": "94"
+      }
+    },
+    {
+      "demo": "csp-tone",
+      "initial": {
+        "height": 32,
+        "id": "ct-a",
+        "max": "90",
+        "min": "0",
+        "p": 50,
+        "progress": "50%",
+        "value": "45"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ct-a",
+        "max": "90",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ct-a",
+        "max": "90",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "90"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ct-a",
+        "max": "90",
+        "min": "0",
+        "p": 98.88888888888889,
+        "progress": "98.88888888888889%",
+        "value": "89"
+      }
+    },
+    {
+      "demo": "csp-tone",
+      "initial": {
+        "height": 32,
+        "id": "ct-r",
+        "max": "30",
+        "min": "5",
+        "p": 44.00000000000001,
+        "progress": "44.00000000000001%",
+        "value": "16"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "ct-r",
+        "max": "30",
+        "min": "5",
+        "p": 0,
+        "progress": "0%",
+        "value": "5"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "ct-r",
+        "max": "30",
+        "min": "5",
+        "p": 100,
+        "progress": "100%",
+        "value": "30"
+      },
+      "changed": {
+        "height": 32,
+        "id": "ct-r",
+        "max": "30",
+        "min": "5",
+        "p": 96,
+        "progress": "96%",
+        "value": "29"
+      }
+    },
+    {
+      "demo": "ps-gradmap",
+      "initial": {
+        "height": 32,
+        "id": "pg-o",
+        "max": "100",
+        "min": "0",
+        "p": 75,
+        "progress": "75%",
+        "value": "75"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "pg-o",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "pg-o",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "pg-o",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-x",
+        "max": "30",
+        "min": "-30",
+        "p": 50,
+        "progress": "50%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-x",
+        "max": "30",
+        "min": "-30",
+        "p": 0,
+        "progress": "0%",
+        "value": "-30"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-x",
+        "max": "30",
+        "min": "-30",
+        "p": 100,
+        "progress": "100%",
+        "value": "30"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-x",
+        "max": "30",
+        "min": "-30",
+        "p": 98.33333333333331,
+        "progress": "98.33333333333333%",
+        "value": "29"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-y",
+        "max": "25",
+        "min": "-25",
+        "p": 50,
+        "progress": "50%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-y",
+        "max": "25",
+        "min": "-25",
+        "p": 0,
+        "progress": "0%",
+        "value": "-25"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-y",
+        "max": "25",
+        "min": "-25",
+        "p": 100,
+        "progress": "100%",
+        "value": "25"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-y",
+        "max": "25",
+        "min": "-25",
+        "p": 98,
+        "progress": "98%",
+        "value": "24"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-z",
+        "max": "20",
+        "min": "-20",
+        "p": 50,
+        "progress": "50%",
+        "value": "0"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-z",
+        "max": "20",
+        "min": "-20",
+        "p": 0,
+        "progress": "0%",
+        "value": "-20"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-z",
+        "max": "20",
+        "min": "-20",
+        "p": 100,
+        "progress": "100%",
+        "value": "20"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-z",
+        "max": "20",
+        "min": "-20",
+        "p": 97.5,
+        "progress": "97.5%",
+        "value": "19"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-el",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-el",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-el",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-el",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-er",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-er",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-er",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-er",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-m",
+        "max": "100",
+        "min": "0",
+        "p": 12,
+        "progress": "12%",
+        "value": "12"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-m",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-m",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-m",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-params",
+      "initial": {
+        "height": 32,
+        "id": "lp-b",
+        "max": "100",
+        "min": "0",
+        "p": 50,
+        "progress": "50%",
+        "value": "50"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lp-b",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lp-b",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lp-b",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-hair",
+      "initial": {
+        "height": 32,
+        "id": "lh-k",
+        "max": "95",
+        "min": "10",
+        "p": 52.94117647058824,
+        "progress": "52.94117647058824%",
+        "value": "55"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lh-k",
+        "max": "95",
+        "min": "10",
+        "p": 0,
+        "progress": "0%",
+        "value": "10"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lh-k",
+        "max": "95",
+        "min": "10",
+        "p": 100,
+        "progress": "100%",
+        "value": "95"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lh-k",
+        "max": "95",
+        "min": "10",
+        "p": 98.82352941176472,
+        "progress": "98.82352941176471%",
+        "value": "94"
+      }
+    },
+    {
+      "demo": "live2d-hair",
+      "initial": {
+        "height": 32,
+        "id": "lh-d",
+        "max": "30",
+        "min": "1",
+        "p": 17.24137931034483,
+        "progress": "17.24137931034483%",
+        "value": "6"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lh-d",
+        "max": "30",
+        "min": "1",
+        "p": 0,
+        "progress": "0%",
+        "value": "1"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lh-d",
+        "max": "30",
+        "min": "1",
+        "p": 100,
+        "progress": "100%",
+        "value": "30"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lh-d",
+        "max": "30",
+        "min": "1",
+        "p": 96.55172413793105,
+        "progress": "96.55172413793103%",
+        "value": "29"
+      }
+    },
+    {
+      "demo": "live2d-hair",
+      "initial": {
+        "height": 32,
+        "id": "lh-g",
+        "max": "100",
+        "min": "0",
+        "p": 35,
+        "progress": "35%",
+        "value": "35"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lh-g",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lh-g",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lh-g",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "live2d-hair",
+      "initial": {
+        "height": 32,
+        "id": "lh-w",
+        "max": "100",
+        "min": "0",
+        "p": 10,
+        "progress": "10%",
+        "value": "10"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "lh-w",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "lh-w",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "lh-w",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "reverse-layers",
+      "initial": {
+        "height": 32,
+        "id": "rev-layer-base",
+        "max": "255",
+        "min": "0",
+        "p": 39.21568627450981,
+        "progress": "39.21568627450981%",
+        "value": "100"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "rev-layer-base",
+        "max": "255",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "rev-layer-base",
+        "max": "255",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "255"
+      },
+      "changed": {
+        "height": 32,
+        "id": "rev-layer-base",
+        "max": "255",
+        "min": "0",
+        "p": 99.6078431372549,
+        "progress": "99.6078431372549%",
+        "value": "254"
+      }
+    },
+    {
+      "demo": "reverse-watermark",
+      "initial": {
+        "height": 32,
+        "id": "rev-base",
+        "max": "255",
+        "min": "0",
+        "p": 39.6078431372549,
+        "progress": "39.6078431372549%",
+        "value": "101"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "rev-base",
+        "max": "255",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "rev-base",
+        "max": "255",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "255"
+      },
+      "changed": {
+        "height": 32,
+        "id": "rev-base",
+        "max": "255",
+        "min": "0",
+        "p": 99.6078431372549,
+        "progress": "99.6078431372549%",
+        "value": "254"
+      }
+    },
+    {
+      "demo": "reverse-watermark",
+      "initial": {
+        "height": 32,
+        "id": "rev-mark",
+        "max": "255",
+        "min": "0",
+        "p": 94.11764705882352,
+        "progress": "94.11764705882352%",
+        "value": "240"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "rev-mark",
+        "max": "255",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "rev-mark",
+        "max": "255",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "255"
+      },
+      "changed": {
+        "height": 32,
+        "id": "rev-mark",
+        "max": "255",
+        "min": "0",
+        "p": 99.6078431372549,
+        "progress": "99.6078431372549%",
+        "value": "254"
+      }
+    },
+    {
+      "demo": "reverse-watermark",
+      "initial": {
+        "height": 32,
+        "id": "rev-alpha",
+        "max": "100",
+        "min": "0",
+        "p": 50,
+        "progress": "50%",
+        "value": "50"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "rev-alpha",
+        "max": "100",
+        "min": "0",
+        "p": 0,
+        "progress": "0%",
+        "value": "0"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "rev-alpha",
+        "max": "100",
+        "min": "0",
+        "p": 100,
+        "progress": "100%",
+        "value": "100"
+      },
+      "changed": {
+        "height": 32,
+        "id": "rev-alpha",
+        "max": "100",
+        "min": "0",
+        "p": 99,
+        "progress": "99%",
+        "value": "99"
+      }
+    },
+    {
+      "demo": "reverse-svg",
+      "initial": {
+        "height": 32,
+        "id": "rev-nodes",
+        "max": "48",
+        "min": "3",
+        "p": 6.666666666666667,
+        "progress": "6.666666666666667%",
+        "value": "6"
+      },
+      "minimum": {
+        "height": 32,
+        "id": "rev-nodes",
+        "max": "48",
+        "min": "3",
+        "p": 0,
+        "progress": "0%",
+        "value": "3"
+      },
+      "maximum": {
+        "height": 32,
+        "id": "rev-nodes",
+        "max": "48",
+        "min": "3",
+        "p": 100,
+        "progress": "100%",
+        "value": "48"
+      },
+      "changed": {
+        "height": 32,
+        "id": "rev-nodes",
+        "max": "48",
+        "min": "3",
+        "p": 97.77777777777776,
+        "progress": "97.77777777777777%",
+        "value": "47"
+      }
+    }
+  ],
+  "responsive": [
+    {
+      "controls": [
+        {
+          "height": 32,
+          "id": "rev-base",
+          "progress": "100%",
+          "width": 244,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-mark",
+          "progress": "75.29411764705883%",
+          "width": 244,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-alpha",
+          "progress": "50%",
+          "width": 244,
+          "within": true
+        }
+      ],
+      "document": 310,
+      "overflow": [],
+      "viewport": 320
+    },
+    {
+      "controls": [
+        {
+          "height": 32,
+          "id": "rev-base",
+          "progress": "100%",
+          "width": 314,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-mark",
+          "progress": "75.29411764705883%",
+          "width": 314,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-alpha",
+          "progress": "50%",
+          "width": 314,
+          "within": true
+        }
+      ],
+      "document": 380,
+      "overflow": [],
+      "viewport": 390
+    },
+    {
+      "controls": [
+        {
+          "height": 32,
+          "id": "rev-base",
+          "progress": "100%",
+          "width": 645.28125,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-mark",
+          "progress": "75.29411764705883%",
+          "width": 645.28125,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-alpha",
+          "progress": "50%",
+          "width": 645.28125,
+          "within": true
+        }
+      ],
+      "document": 758,
+      "overflow": [],
+      "viewport": 768
+    },
+    {
+      "controls": [
+        {
+          "height": 32,
+          "id": "rev-base",
+          "progress": "100%",
+          "width": 284.1875,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-mark",
+          "progress": "75.29411764705883%",
+          "width": 284.1875,
+          "within": true
+        },
+        {
+          "height": 32,
+          "id": "rev-alpha",
+          "progress": "50%",
+          "width": 284.1875,
+          "within": true
+        }
+      ],
+      "document": 1270,
+      "overflow": [],
+      "viewport": 1280
+    }
+  ],
+  "reset": [
+    {
+      "id": "lp-x",
+      "max": "30",
+      "min": "-30",
+      "progress": "50%",
+      "value": "0"
+    },
+    {
+      "id": "lp-y",
+      "max": "25",
+      "min": "-25",
+      "progress": "50%",
+      "value": "0"
+    },
+    {
+      "id": "lp-z",
+      "max": "20",
+      "min": "-20",
+      "progress": "50%",
+      "value": "0"
+    },
+    {
+      "id": "lp-el",
+      "max": "100",
+      "min": "0",
+      "progress": "100%",
+      "value": "100"
+    },
+    {
+      "id": "lp-er",
+      "max": "100",
+      "min": "0",
+      "progress": "100%",
+      "value": "100"
+    },
+    {
+      "id": "lp-m",
+      "max": "100",
+      "min": "0",
+      "progress": "12%",
+      "value": "12"
+    },
+    {
+      "id": "lp-b",
+      "max": "100",
+      "min": "0",
+      "progress": "50%",
+      "value": "50"
+    }
+  ]
+}

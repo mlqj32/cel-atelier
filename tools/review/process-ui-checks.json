@@ -1,0 +1,1199 @@
+{
+  "stepChecks390": [
+    {
+      "case": "workflow",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "workflow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "workflow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "workflow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "workflow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 4
+    },
+    {
+      "case": "line",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "line",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "line",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "line",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "fill",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "fill",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "fill",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "fill",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "shadow",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "shadow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "shadow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "shadow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "hair",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "hair",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "hair",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "hair",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "cloth",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "cloth",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "cloth",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "cloth",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "metal",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "metal",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "metal",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "metal",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "clip",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "clip",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "clip",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "clip",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "curves",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "curves",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "curves",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "curves",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "map",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "map",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "map",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "map",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "glow",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "glow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "glow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "glow",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "eyes",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "eyes",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "eyes",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "eyes",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "post",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "post",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "post",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "post",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    },
+    {
+      "case": "post",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 4
+    },
+    {
+      "case": "sharp",
+      "gallery": 1,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 0
+    },
+    {
+      "case": "sharp",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 1
+    },
+    {
+      "case": "sharp",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 2
+    },
+    {
+      "case": "sharp",
+      "gallery": 2,
+      "images": true,
+      "noOverflow": true,
+      "notes": true,
+      "selected": "true",
+      "step": 3
+    }
+  ],
+  "finalStepChecks320": [
+    {
+      "case": "workflow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "workflow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "workflow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "workflow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "workflow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 4,
+      "targets": true
+    },
+    {
+      "case": "line",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "line",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "line",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "line",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "fill",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "fill",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "fill",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "fill",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "shadow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "shadow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "shadow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "shadow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "hair",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "hair",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "hair",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "hair",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "cloth",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "cloth",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "cloth",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "cloth",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "metal",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "metal",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "metal",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "metal",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "clip",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "clip",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "clip",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "clip",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "curves",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "curves",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "curves",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "curves",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "map",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "map",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "map",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "map",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "glow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "glow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "glow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "glow",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "eyes",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "eyes",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "eyes",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "eyes",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "post",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "post",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "post",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "post",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    },
+    {
+      "case": "post",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 4,
+      "targets": true
+    },
+    {
+      "case": "sharp",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 0,
+      "targets": true
+    },
+    {
+      "case": "sharp",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 1,
+      "targets": true
+    },
+    {
+      "case": "sharp",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 2,
+      "targets": true
+    },
+    {
+      "case": "sharp",
+      "caseOverflow": 0,
+      "loaded": true,
+      "pageOverflow": 0,
+      "pressed": true,
+      "ratio": true,
+      "step": 3,
+      "targets": true
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch10",
+      "smallButtons": [],
+      "viewport": 310
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch08",
+      "smallButtons": [],
+      "viewport": 310
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "ps/ch09",
+      "smallButtons": [
+        "点击放大查看",
+        "点击放大查看"
+      ],
+      "viewport": 310
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch10",
+      "viewport": 758
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch08",
+      "viewport": 758
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "ps/ch09",
+      "viewport": 758
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch10",
+      "viewport": 1270
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch08",
+      "viewport": 1270
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "ps/ch09",
+      "viewport": 1270
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "cel/ch08",
+      "viewport": 1910
+    },
+    {
+      "caseOverflow": 0,
+      "overflowElements": [],
+      "pageOverflow": 0,
+      "route": "ps/ch09",
+      "viewport": 1910
+    }
+  ],
+  "dialog": {
+    "closeButton": true,
+    "escape": true,
+    "routeChange": true
+  },
+  "comparisonModes": true
+}

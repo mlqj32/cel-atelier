@@ -1,0 +1,89 @@
+[
+  {
+    "key": "png",
+    "url": "https://www.w3.org/TR/png-3/",
+    "status": 200,
+    "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+    "excerpts": {
+      "tIME": "oders 11.3.4.5.3 eXIf Recommendations for Encoders 11.3.5 Time stamp information 11.3.5.1 tIME Image last-modification time 11.3.6 Animation information 11.3.6.1 acTL Animation Control Chunk 11.3.6.2 fcTL Frame Control Chunk 11.3.6.3 fdAT Frame Data Chunk 12. PNG Encoders Introduction 12.1 Encoder gamma handling 12.2 Encoder color handling 12.3 Alp",
+      "IHDR": "ompression 11. Chunk specifications 11.1 General 11.2 Critical chunks Introduction 11.2.1 IHDR Image header 11.2.2 PLTE Palette 11.2.3 IDAT Image data 11.2.4 IEND Image trailer 11.3 Ancillary chunks Introduction 11.3.1 Transparency information 11.3.1.1 tRNS Transparency 11.3.2 Color space information 11.3.2.1 cHRM Primary chromaticities and white p",
+      "CRC": "re 5.1 PNG datastream 5.2 PNG signature 5.3 Chunk layout 5.4 Chunk naming conventions 5.5 CRC algorithm 5.6 Chunk ordering 5.7 Defining chunks 5.7.1 General 5.7.2 Defining public chunks 5.7.3 Defining private chunks 5.8 Private field values 6. Reference image to PNG image transformation 6.1 Color types and values 6.2 Alpha representation 7. Encodin",
+      "Creation Time": "age's creator Description Description of image (possibly long) Copyright Copyright notice Creation Time Time of original image creation Software Software used to create the image Disclaimer Legal disclaimer Warning Warning of nature of content Source Device used to create the image Comment Miscellaneous comment XML:com.adobe.xmp Extensible Metadata"
+    }
+  },
+  {
+    "key": "psd",
+    "url": "https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "exif_png",
+    "url": "https://exiftool.org/TagNames/PNG.html",
+    "status": 200,
+    "title": "PNG Tags",
+    "excerpts": {
+      "ModifyDate": "seAl' SEAL - --&gt; XMP SEAL Tags 'tEXt' TextualData - --&gt; PNG TextualData Tags 'tIME' ModifyDate yes &nbsp; 'tRNS' Transparency no &nbsp; 'tXMP' XMP - --&gt; XMP Tags (obsolete location specified by a September 2001 XMP draft) 'vpAg' VirtualPage - --&gt; PNG VirtualPage Tags 'zTXt' CompressedText - --&gt; PNG TextualData Tags 'zxIf' zxIf - --&g",
+      "CreationTime": "nbsp; 'Comment' Comment string &nbsp; 'Copyright' Copyright string &nbsp; 'Creation Time' CreationTime string (stored in RFC-1123 format and converted to/from EXIF format by ExifTool) 'Description' Description string &nbsp; 'Disclaimer' Disclaimer string &nbsp; 'Document' Document string (unregistered) 'Label' Label string (unregistered) 'Make' Mak"
+    }
+  },
+  {
+    "key": "exif_dates",
+    "url": "https://exiftool.org/TagNames/EXIF.html",
+    "status": 200,
+    "title": "EXIF Tags",
+    "excerpts": {
+      "DateTimeOriginal": "&nbsp; 0x882a TimeZoneOffset int16s[n] ExifIFD (1 or 2 values: 1. The time zone offset of DateTimeOriginal from GMT in hours, 2. If present, the time zone offset of ModifyDate) 0x882b SelfTimerMode int16u ExifIFD &nbsp; 0x8830 SensitivityType int16u ExifIFD (applies to EXIF:ISO tag) 0 = Unknown 1 = Standard Output Sensitivity 2 = Recommended Exposu",
+      "OffsetTimeOriginal": "ndef[n] ExifIFD &nbsp; 0x9010 OffsetTime string ExifIFD (time zone for ModifyDate) 0x9011 OffsetTimeOriginal string ExifIFD (time zone for DateTimeOriginal) 0x9012 OffsetTimeDigitized string ExifIFD (time zone for CreateDate) 0x9101 ComponentsConfiguration undef[4]!: ExifIFD 0 = - 1 = Y 2 = Cb 3 = Cr &nbsp;&nbsp; 4 = R 5 = G 6 = B 0x9102 Compressed",
+      "Software": "THM - DCF thumbnail file 0x0002 InteropVersion undef!: InteropIFD &nbsp; 0x000b ProcessingSoftware string IFD0 (used by ACD Systems Digital Imaging) 0x00fe SubfileType int32u! IFD0 (called NewSubfileType by the TIFF specification) 0x0 = Full-resolution image 0x1 = Reduced-resolution image 0x2 = Single page of multi-page image 0x3 = Single page of m"
+    }
+  },
+  {
+    "key": "exif_xmp",
+    "url": "https://exiftool.org/TagNames/XMP.html",
+    "status": 200,
+    "title": "XMP Tags",
+    "excerpts": {
+      "CreatorTool": "+ (deprecated) Author string/ (non-standard) BaseURL string &nbsp; CreateDate date &nbsp; CreatorTool string &nbsp; Description lang-alt/ (non-standard) Format string/ (non-standard) Identifier string/+ &nbsp; Keywords string/ (non-standard) Label string &nbsp; MetadataDate date &nbsp; ModifyDate date &nbsp; Nickname string &nbsp; PageInfo struct+ ",
+      "CreateDate": "TFtpPriority string &nbsp; ImageRank string &nbsp; MediaEventIdDate string &nbsp; OriginalCreateDateTime date/ &nbsp; OriginalFileName string &nbsp; ParentMediaEventID string &nbsp; ParentMEID string &nbsp; Personality string+ &nbsp; PrimaryFTP string+ &nbsp; RoutingDestinations string+ &nbsp; RoutingExclusions string+ &nbsp; SecondaryFTP string+ &"
+    }
+  },
+  {
+    "key": "exif_examples",
+    "url": "https://exiftool.org/examples.html",
+    "status": 200,
+    "title": "ExifTool Command-Line Examples",
+    "excerpts": {
+      "-a -u -g1": "to a.jpg .'; ++n; cod[n] = 0x0f; lbl[n] = 'Extracting duplicate tags'; cmd[n] = 'exiftool -a -u -g1 a.jpg'; txt[n] = 'Print all meta information in an image, including duplicate and unknown tags, sorted by group (for family 1).'; ++n; cod[n] = 0x0f; cmd[n] = 'exiftool -common dir'; txt[n] = 'Print common meta information for all images in dir.'; ++"
+    }
+  },
+  {
+    "key": "svg",
+    "url": "https://www.w3.org/TR/SVG2/",
+    "status": 200,
+    "title": "Scalable Vector Graphics (SVG) 2",
+    "excerpts": {
+      "image": "ty 3.7. Types of graphics elements 3.7.1. Painting shapes and text 3.7.2. Painting raster images 3.8. Filtering painted regions 3.9. Clipping and masking 3.10. Parent compositing 3.11. The effect of the ‘ overflow ’ property 4. Basic Data Types and Interfaces 4.1. Definitions 4.2. Attribute syntax 4.2.1. Real number precision 4.2.2. Clamping values",
+      "path": "tio 8.14.5. Interface SVGAnimatedPreserveAspectRatio 9. Paths 9.1. Introduction 9.2. The ‘path’ element 9.3. Path data 9.3.1. General information about path data 9.3.2. Specifying path data: the ‘ d ’ property 9.3.3. The \"moveto\" commands 9.3.4. The \"closepath\" command 9.3.5. The \"lineto\" commands 9.3.6. The cubic Bézier curve commands 9.3.7. The q"
+    }
+  },
+  {
+    "key": "c2pa",
+    "url": "https://spec.c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html",
+    "status": 200,
+    "title": "Content Credentials : C2PA Technical Specification :: C2PA Specifications",
+    "excerpts": {
+      "trust": "he provenance of media is critical to ensure transparency, understanding, and ultimately, trust. We are witnessing extraordinary challenges to trust in media. As social platforms amplify the reach and influence of certain content via ever more complex and opaque algorithms, mis-attributed and mis-contextualized content spreads quickly. Whether inad",
+      "manifest": "Step Processing 11. Manifests 11.1. Use of JUMBF 11.2. Types of Manifests 11.3. Embedding manifests into various file formats 11.4. External Manifests 11.5. Embedding a Reference to an external Manifest 12. Entity Diagram 13. Cryptography 13.1. Hashing 13.2. Digital Signatures 14. Trust Model 14.1. Overview 14.2. Identity of Signers 14.3. Validatio"
+    }
+  },
+  {
+    "key": "webp",
+    "url": "https://developers.google.com/speed/webp/docs/riff_container",
+    "status": 200,
+    "title": "WebP Container Specification &nbsp;|&nbsp; Google for Developers",
+    "excerpts": {
+      "RIFF": "ession, plus features like transparency and animation. WebP uses a chunk-based structure (RIFF) to store data, including image data (VP8, VP8L), animation data (ANIM, ANMF), and metadata. The extended WebP format provides features like alpha, ICC profiles, and animation by utilizing the &#39;VP8X&#39; chunk and additional sub-chunks. Animation in W",
+      "WEBP": "2 minus 10 bytes and thus the size of the whole file is at most 4 GiB minus 2 bytes. &#39;WEBP&#39;: 32 bits The ASCII characters &#39;W&#39;, &#39;E&#39;, &#39;B&#39;, &#39;P&#39;. A WebP file MUST begin with a RIFF header with the FourCC &#39;WEBP&#39;. The file size in the header is the total size of the chunks that follow plus 4 bytes for the &"
+    }
+  }
+]

@@ -1,0 +1,320 @@
+{
+  "workflow": [
+    {
+      "src": "assets/process/workflow-01.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/workflow-02.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/workflow-03.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/workflow-04.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/workflow-05.png",
+      "width": 1200,
+      "height": 1400
+    }
+  ],
+  "line": [
+    {
+      "src": "assets/process/line-01.png",
+      "width": 690,
+      "height": 560
+    },
+    {
+      "src": "assets/process/line-02.png",
+      "width": 690,
+      "height": 560
+    },
+    {
+      "src": "assets/process/line-03.png",
+      "width": 690,
+      "height": 560
+    },
+    {
+      "src": "assets/process/line-04.png",
+      "width": 690,
+      "height": 560
+    }
+  ],
+  "fill": [
+    {
+      "src": "assets/process/fill-01.png",
+      "width": 750,
+      "height": 400
+    },
+    {
+      "src": "assets/process/fill-02.png",
+      "width": 750,
+      "height": 400
+    },
+    {
+      "src": "assets/process/fill-03.png",
+      "width": 750,
+      "height": 400
+    },
+    {
+      "src": "assets/process/fill-04.png",
+      "width": 750,
+      "height": 400
+    }
+  ],
+  "shadow": [
+    {
+      "src": "assets/process/shadow-01.png",
+      "width": 646,
+      "height": 550
+    },
+    {
+      "src": "assets/process/shadow-02.png",
+      "width": 646,
+      "height": 550
+    },
+    {
+      "src": "assets/process/shadow-03.png",
+      "width": 646,
+      "height": 550
+    },
+    {
+      "src": "assets/process/shadow-04.png",
+      "width": 646,
+      "height": 550
+    }
+  ],
+  "hair": [
+    {
+      "src": "assets/process/hair-01.png",
+      "width": 682,
+      "height": 304
+    },
+    {
+      "src": "assets/process/hair-02.png",
+      "width": 682,
+      "height": 304
+    },
+    {
+      "src": "assets/process/hair-03.png",
+      "width": 682,
+      "height": 304
+    },
+    {
+      "src": "assets/process/hair-04.png",
+      "width": 682,
+      "height": 304
+    }
+  ],
+  "cloth": [
+    {
+      "src": "assets/process/cloth-01.png",
+      "width": 934,
+      "height": 452
+    },
+    {
+      "src": "assets/process/cloth-02.png",
+      "width": 934,
+      "height": 452
+    },
+    {
+      "src": "assets/process/cloth-03.png",
+      "width": 934,
+      "height": 452
+    },
+    {
+      "src": "assets/process/cloth-04.png",
+      "width": 934,
+      "height": 452
+    }
+  ],
+  "metal": [
+    {
+      "src": "assets/process/metal-01.png",
+      "width": 900,
+      "height": 700
+    },
+    {
+      "src": "assets/process/metal-02.png",
+      "width": 900,
+      "height": 700
+    },
+    {
+      "src": "assets/process/metal-03.png",
+      "width": 900,
+      "height": 700
+    },
+    {
+      "src": "assets/process/metal-04.png",
+      "width": 900,
+      "height": 700
+    }
+  ],
+  "clip": [
+    {
+      "src": "assets/process/clip-01.png",
+      "width": 950,
+      "height": 470
+    },
+    {
+      "src": "assets/process/clip-02.png",
+      "width": 950,
+      "height": 470
+    },
+    {
+      "src": "assets/process/clip-03.png",
+      "width": 950,
+      "height": 470
+    },
+    {
+      "src": "assets/process/clip-04.png",
+      "width": 950,
+      "height": 470
+    }
+  ],
+  "curves": [
+    {
+      "src": "assets/process/curves-01.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/curves-02.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/curves-03.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/curves-04.png",
+      "width": 1200,
+      "height": 1400
+    }
+  ],
+  "map": [
+    {
+      "src": "assets/process/map-01.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/map-02.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/map-03.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/map-04.png",
+      "width": 1200,
+      "height": 1400
+    }
+  ],
+  "glow": [
+    {
+      "src": "assets/process/glow-01.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/glow-02.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/glow-03.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/glow-04.png",
+      "width": 1200,
+      "height": 1400
+    }
+  ],
+  "post": [
+    {
+      "src": "assets/process/post-01.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/post-02.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/post-03.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/post-04.png",
+      "width": 1200,
+      "height": 1400
+    },
+    {
+      "src": "assets/process/post-05.png",
+      "width": 600,
+      "height": 700
+    }
+  ],
+  "eyes": [
+    {
+      "src": "assets/process/eyes-01.png",
+      "width": 580,
+      "height": 340
+    },
+    {
+      "src": "assets/process/eyes-02.png",
+      "width": 580,
+      "height": 340
+    },
+    {
+      "src": "assets/process/eyes-03.png",
+      "width": 580,
+      "height": 340
+    },
+    {
+      "src": "assets/process/eyes-04.png",
+      "width": 580,
+      "height": 340
+    }
+  ],
+  "sharp": [
+    {
+      "src": "assets/process/sharp-01.png",
+      "width": 880,
+      "height": 420
+    },
+    {
+      "src": "assets/process/sharp-02.png",
+      "width": 880,
+      "height": 420
+    },
+    {
+      "src": "assets/process/sharp-03.png",
+      "width": 880,
+      "height": 420
+    },
+    {
+      "src": "assets/process/sharp-04.png",
+      "width": 720,
+      "height": 840
+    }
+  ]
+}

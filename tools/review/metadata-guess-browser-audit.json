@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-15",
+  "layout": [
+    {
+      "document": 310,
+      "overflow": [],
+      "selectFont": [
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "width": 320
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "selectFont": [
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "width": 390
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "selectFont": [
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "width": 768
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "selectFont": [
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "width": 1280
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "selectFont": [
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "width": 1920
+    }
+  ],
+  "checks": {
+    "cleanFileShowsCandidates": true,
+    "filenamePurposeAutoInference": true,
+    "deviceSelectionUpdatesCandidates": true,
+    "sourceSelectionUpdatesTimeAssumption": true,
+    "reportContainsCandidatesAndContext": true,
+    "sampleRetainsDeclarationsWithoutFallback": true
+  },
+  "scope": "本地测试图与教学样本；未取得截图中的原始立绘文件，未声称鉴定其真实软件或绘制日期。"
+}

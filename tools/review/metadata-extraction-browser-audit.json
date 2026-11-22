@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-15",
+  "parserVersion": 36,
+  "files": [
+    {
+      "file": "reference-iptc.jpg",
+      "diagnostic": "提取成功",
+      "fields": [
+        {
+          "tag": "OriginatingProgram",
+          "value": "Reference Test Tool"
+        },
+        {
+          "tag": "DateCreated",
+          "value": "20250304"
+        },
+        {
+          "tag": "TimeCreated",
+          "value": "123456+0800"
+        },
+        {
+          "tag": "ProgramVersion",
+          "value": "26.0"
+        },
+        {
+          "tag": "Comment",
+          "value": "REFERENCE TEST; not a genuine software export."
+        }
+      ],
+      "hasInference": false
+    },
+    {
+      "file": "history-xmp.jpg",
+      "diagnostic": "提取成功",
+      "fields": [
+        {
+          "tag": "softwareAgent",
+          "value": "Reference History Tool"
+        },
+        {
+          "tag": "when",
+          "value": "2025-01-02T03:04:05+08:00"
+        },
+        {
+          "tag": "action",
+          "value": "saved"
+        }
+      ],
+      "hasInference": false
+    },
+    {
+      "file": "date-aliases.png",
+      "diagnostic": "提取成功",
+      "fields": [
+        {
+          "tag": "date:create",
+          "value": "2025-01-02T03:04:05+08:00"
+        },
+        {
+          "tag": "date:modify",
+          "value": "2025-01-03T04:05:06+08:00"
+        }
+      ],
+      "hasInference": true
+    },
+    {
+      "file": "text-exif-xmp.png",
+      "diagnostic": "提取成功",
+      "fields": [
+        {
+          "tag": "Software",
+          "value": "Demo PNG Tool"
+        },
+        {
+          "tag": "Software",
+          "value": "Demo Painter A"
+        },
+        {
+          "tag": "CreatorTool",
+          "value": "Demo Exporter B"
+        },
+        {
+          "tag": "Software",
+          "value": "Demo Tool C"
+        },
+        {
+          "tag": "ModifyDate",
+          "value": "2021:02:03 04:05:06"
+        },
+        {
+          "tag": "DateTimeOriginal",
+          "value": "2020:01:02 03:04:05"
+        },
+        {
+          "tag": "OffsetTimeOriginal",
+          "value": "+08:00"
+        },
+        {
+          "tag": "CreateDate",
+          "value": "2022-04-05T06:07:08+08:00"
+        },
+        {
+          "tag": "ModifyDate",
+          "value": "2022-04-04T23:07:08-07:00"
+        },
+        {
+          "tag": "Artist",
+          "value": "Demo Artist"
+        },
+        {
+          "tag": "creator",
+          "value": "教学作者小鹿"
+        },
+        {
+          "tag": "Author",
+          "value": "原创测试作者"
+        },
+        {
+          "tag": "Description",
+          "value": "测试 UTF-8 压缩文本"
+        },
+        {
+          "tag": "Comment",
+          "value": "Compressed Latin-1 text"
+        }
+      ],
+      "hasInference": false
+    },
+    {
+      "file": "clean.png",
+      "diagnostic": "未检测到支持的附加信息块",
+      "fields": [],
+      "hasInference": true
+    },
+    {
+      "file": "other-only.png",
+      "diagnostic": "提取成功",
+      "fields": [
+        {
+          "tag": "Description",
+          "value": "Reference description only; no software or date declaration."
+        }
+      ],
+      "hasInference": true
+    },
+    {
+      "file": "invalid.png",
+      "diagnostic": "提取不完整，需复核",
+      "fields": [],
+      "hasInference": true
+    }
+  ],
+  "layout": [
+    {
+      "docWidth": 310,
+      "overflow": [],
+      "width": 320
+    },
+    {
+      "docWidth": 380,
+      "overflow": [],
+      "width": 390
+    },
+    {
+      "docWidth": 758,
+      "overflow": [],
+      "width": 768
+    },
+    {
+      "docWidth": 1270,
+      "overflow": [],
+      "width": 1280
+    },
+    {
+      "docWidth": 1910,
+      "overflow": [],
+      "width": 1920
+    }
+  ],
+  "scope": "Seven local regression files; synthetic declarations, not user original images."
+}

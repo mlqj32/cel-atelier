@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>赛璐璐画室 · Cel Atelier — 二次元插画完全修习手册</title>
+<meta name="description" content="面向二次元插画的系统学习网站：赛璐璐上色、iPad Procreate、SAI2、CSP、PS 后期、Live2D、米画师/画加接稿与行业迷思。配交互演示与手绘图解。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='%23ff8fc7'/><stop offset='.55' stop-color='%23c0a4ff'/><stop offset='1' stop-color='%237fe9ff'/></linearGradient></defs><rect width='100' height='100' rx='24' fill='%230a0c18'/><path d='M28 68c14-6 20-18 24-34 2-8 12-10 16-4 3 5 0 12-7 17-9 7-21 14-33 21z' fill='url(%23g)'/><circle cx='66' cy='30' r='7' fill='%23ffd79a'/></svg>">
+<link rel="preload" href="assets/fonts/hub-sans-sc.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/main.css?v=20261117">
+<link rel="stylesheet" href="assets/css/demos.css?v=20261117">
+<link rel="stylesheet" href="assets/css/reader.css?v=20261117">
+<link rel="stylesheet" href="assets/css/process-cases.css?v=20261117">
+</head>
+<body>
+
+<!-- ═══════════ 背景特效层 ═══════════ -->
+<div class="bg-layer" aria-hidden="true">
+  <div class="bg-base"></div>
+  <div class="aurora aurora-1"></div>
+  <div class="aurora aurora-2"></div>
+  <div class="aurora aurora-3"></div>
+  <div class="aurora aurora-4"></div>
+  <div class="grid-overlay"></div>
+  <canvas id="fx-canvas"></canvas>
+  <div class="bg-vignette"></div>
+  <div class="bg-grain"></div>
+</div>
+
+<!-- ═══════════ 全局装饰 ═══════════ -->
+<div class="cursor-glow" id="cursor-glow" aria-hidden="true"></div>
+<div class="cursor-ring" id="cursor-ring" aria-hidden="true"></div>
+<div class="read-progress" id="read-progress" aria-hidden="true"><i id="read-progress-bar"></i></div>
+
+<!-- ═══════════ 顶部导航 ═══════════ -->
+<header class="topbar" id="topbar">
+  <div class="topbar-inner">
+    <a class="logo" href="#/home" data-nav aria-label="赛璐璐画室首页">
+      <span class="logo-mark">
+        <svg viewBox="0 0 48 48" fill="none" aria-hidden="true">
+          <defs>
+            <linearGradient id="lg-a" x1="6" y1="42" x2="42" y2="6" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#ff6fae"/><stop offset=".5" stop-color="#c0a4ff"/><stop offset="1" stop-color="#7fe9ff"/>
+            </linearGradient>
+            <linearGradient id="lg-b" x1="10" y1="10" x2="38" y2="38" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#ffd79a"/><stop offset="1" stop-color="#ff8fc7"/>
+            </linearGradient>
+          </defs>
+          <circle cx="24" cy="24" r="21" stroke="url(#lg-a)" stroke-width="1.4" opacity=".55"/>
+          <path d="M13 35c7.2-3 10.6-9.4 12.6-17.8 1-4.1 6.1-5.2 8.2-2.1 1.6 2.4.2 6.2-3.4 8.9C25 28 18.6 31.6 13 35z" fill="url(#lg-a)"/>
+          <circle cx="33.5" cy="14.5" r="3.4" fill="url(#lg-b)"/>
+          <path d="M9 39.5c9-1.4 17-1.4 26 0" stroke="url(#lg-a)" stroke-width="1.2" stroke-linecap="round" opacity=".6"/>
+        </svg>
+      </span>
+      <span class="logo-text">
+        <span class="logo-main">赛璐璐画室</span>
+        <span class="logo-sub">CEL ATELIER</span>
+      </span>
+    </a>
+
+    <nav class="topnav" id="topnav" aria-label="主导航"></nav>
+
+    <div class="topbar-actions">
+      <button class="icon-btn" id="fx-toggle" title="开关背景特效" aria-label="开关背景特效">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l1.7 5.2a2 2 0 0 0 1.3 1.3L20 11l-5 1.5a2 2 0 0 0-1.3 1.3L12 19l-1.7-5.2a2 2 0 0 0-1.3-1.3L4 11l5-1.5a2 2 0 0 0 1.3-1.3L12 3z"/></svg>
+      </button>
+      <button class="search-trigger" id="search-trigger" title="搜索 (Ctrl+K)" aria-label="搜索">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <span>搜索</span>
+        <kbd>Ctrl K</kbd>
+      </button>
+      <button class="menu-toggle" id="menu-toggle" title="目录" aria-label="打开目录" aria-expanded="false" aria-controls="sidebar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ═══════════ 主体布局 ═══════════ -->
+<div class="layout" id="layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-head" id="sidebar-head"></div>
+    <nav class="sidebar-nav" id="sidebar-nav"></nav>
+    <div class="sidebar-foot" id="sidebar-foot"></div>
+  </aside>
+  <div class="sidebar-scrim" id="sidebar-scrim"></div>
+
+  <main class="main" id="main">
+    <div id="view" class="view"></div>
+    <footer class="footer" id="footer">
+      <div class="footer-brush"></div>
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <span class="footer-mark">月</span>
+          <div>
+            <b>赛璐璐画室 · CEL ATELIER</b>
+            <p>把光与色，拆成可以练习的形状。</p>
+          </div>
+        </div>
+        <div class="footer-links" id="footer-links"></div>
+      </div>
+      <p class="footer-fine">本站为学习用途的原创教学站 · 软件界面与功能以官方最新版本为准 · 图示与练习角色为站内原创示意</p>
+    </footer>
+  </main>
+</div>
+
+<!-- ═══════════ 搜索浮层 ═══════════ -->
+<div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="站内搜索">
+  <div class="search-panel">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="search-input" type="text" placeholder="搜索：赛璐璐 / 笔刷 / 图层 / 接稿 / Live2D …" autocomplete="off" spellcheck="false">
+      <kbd class="search-esc">ESC</kbd>
+    </div>
+    <div class="search-hint" id="search-hint">输入关键词，或试试「阴影」「报价」「Procreate」</div>
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<!-- ═══════════ 图片放大镜 ═══════════ -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="图片放大">
+  <button class="lightbox-close" id="lightbox-close" aria-label="关闭">✕</button>
+  <div class="lightbox-inner" id="lightbox-inner"></div>
+</div>
+
+<button class="backtop" id="backtop" title="回到顶部" aria-label="回到顶部">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
+
+<script src="assets/js/highlight.js?v=20261117"></script>
+<script src="assets/js/markdown.js?v=20261117"></script>
+<script src="assets/js/art.js?v=20261117"></script>
+<script src="assets/js/diagrams.js?v=20261117"></script>
+<script src="assets/js/figures.js?v=20261117"></script>
+<script src="assets/js/demos.js?v=20261117"></script>
+<script src="assets/js/demos2.js?v=20261117"></script>
+<script src="assets/js/demos3.js?v=20261117"></script>
+<script src="assets/js/reverse-lab.js?v=20261117"></script>
+<script src="assets/js/reverse-metadata-core.js?v=20261117"></script>
+<script src="assets/js/reverse-metadata-runtime.js?v=20261117"></script>
+<script src="assets/js/reverse-metadata-io.js?v=20261117"></script>
+<script src="assets/js/reverse-metadata.js?v=20261117"></script>
+<script src="assets/js/content/start.js?v=20261117"></script>
+<script src="assets/js/content/fundamentals.js?v=20261117"></script>
+<script src="assets/js/content/cel.js?v=20261117"></script>
+<script src="assets/js/content/ipad.js?v=20261117"></script>
+<script src="assets/js/content/sai2.js?v=20261117"></script>
+<script src="assets/js/content/csp.js?v=20261117"></script>
+<script src="assets/js/content/ps.js?v=20261117"></script>
+<script src="assets/js/content/live2d.js?v=20261117"></script>
+<script src="assets/js/content/career.js?v=20261117"></script>
+<script src="assets/js/content/safety.js?v=20261117"></script>
+<script src="assets/js/content/reverse.js?v=20261117"></script>
+<script src="assets/js/content/r18.js?v=20261117"></script>
+<script src="assets/js/content/myths.js?v=20261117"></script>
+<script src="assets/js/content/practice.js?v=20261117"></script>
+<script src="assets/js/content/tutors-foundation.js?v=20261117"></script>
+<script src="assets/js/content/tutors-cel.js?v=20261117"></script>
+<script src="assets/js/content/tutors-software.js?v=20261117"></script>
+<script src="assets/js/content/tutors-motion-practice.js?v=20261117"></script>
+<script src="assets/js/content/tutors-career.js?v=20261117"></script>
+<script src="assets/js/content/tutors-boundaries.js?v=20261117"></script>
+<script src="assets/js/learning-visuals.js?v=20261117"></script>
+<script src="assets/js/content/worked-cases.js?v=20261117"></script>
+<script src="assets/js/brush-guide.js?v=20261117"></script>
+<script src="assets/js/process-cases.js?v=20261117"></script>
+<script src="assets/js/learning.js?v=20261117"></script>
+<script src="assets/js/app.js?v=20261117"></script>
+</body>
+</html>

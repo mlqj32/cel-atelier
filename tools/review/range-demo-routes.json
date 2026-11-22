@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cel-palette",
+    "route": "#/m/cel/ch07"
+  },
+  {
+    "id": "line-drill",
+    "route": "#/m/fundamentals/ch01"
+  },
+  {
+    "id": "head-angle",
+    "route": "#/m/fundamentals/ch03"
+  },
+  {
+    "id": "proportion",
+    "route": "#/m/fundamentals/ch07"
+  },
+  {
+    "id": "procreate-brush",
+    "route": "#/m/ipad/ch03"
+  },
+  {
+    "id": "sai-watercolor",
+    "route": "#/m/sai2/ch07"
+  },
+  {
+    "id": "sai-stabilizer",
+    "route": "#/m/sai2/ch04"
+  },
+  {
+    "id": "csp-vector",
+    "route": "#/m/csp/ch03"
+  },
+  {
+    "id": "csp-tone",
+    "route": "#/m/csp/ch04"
+  },
+  {
+    "id": "ps-gradmap",
+    "route": "#/m/ps/ch05"
+  },
+  {
+    "id": "live2d-params",
+    "route": "#/m/live2d/ch05"
+  },
+  {
+    "id": "live2d-hair",
+    "route": "#/m/live2d/ch06"
+  },
+  {
+    "id": "reverse-layers",
+    "route": "#/m/reverse/ch10"
+  }
+]

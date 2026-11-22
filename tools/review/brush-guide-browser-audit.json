@@ -1,0 +1,926 @@
+{
+  "interaction": [
+    {
+      "software": "ipad",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "工作室笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 控笔与线条练习",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 头部、人体与构图练习",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "工作室笔",
+        "硬画笔",
+        "软画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 赛璐璐头像、半身与立绘",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "单线",
+        "硬画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · Q版、贴纸与表情包",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "水彩",
+        "软画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 水彩感、半厚涂小稿",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "工作室笔",
+        "硬画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 黑白漫画与条漫",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "工作室笔",
+        "硬画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · Live2D 分层原画",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 控笔与线条练习",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 头部、人体与构图练习",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）",
+        "喷枪"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 赛璐璐头像、半身与立绘",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · Q版、贴纸与表情包",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）",
+        "水彩笔",
+        "喷枪"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 水彩感、半厚涂小稿",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 黑白漫画与条漫",
+      "width": 1280
+    },
+    {
+      "software": "sai2",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · Live2D 分层原画",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "G 笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 控笔与线条练习",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 头部、人体与构图练习",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔",
+        "柔软"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 赛璐璐头像、半身与立绘",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · Q版、贴纸与表情包",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "水彩圆笔",
+        "柔软"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 水彩感、半厚涂小稿",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "G 笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 黑白漫画与条漫",
+      "width": 1280
+    },
+    {
+      "software": "csp",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · Live2D 分层原画",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 控笔与线条练习",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 头部、人体与构图练习",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔",
+        "柔边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 赛璐璐头像、半身与立绘",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · Q版、贴纸与表情包",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔",
+        "柔边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 水彩感、半厚涂小稿",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 黑白漫画与条漫",
+      "width": 1280
+    },
+    {
+      "software": "ps",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 1270,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · Live2D 分层原画",
+      "width": 1280
+    },
+    {
+      "software": "ipad",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "工作室笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 控笔与线条练习",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 头部、人体与构图练习",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "工作室笔",
+        "硬画笔",
+        "软画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 赛璐璐头像、半身与立绘",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "单线",
+        "硬画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · Q版、贴纸与表情包",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "水彩",
+        "软画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 水彩感、半厚涂小稿",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "工作室笔",
+        "硬画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · 黑白漫画与条漫",
+      "width": 320
+    },
+    {
+      "software": "ipad",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "6B 铅笔",
+        "工作室笔",
+        "硬画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Procreate · Live2D 分层原画",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 控笔与线条练习",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 头部、人体与构图练习",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）",
+        "喷枪"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 赛璐璐头像、半身与立绘",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · Q版、贴纸与表情包",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）",
+        "水彩笔",
+        "喷枪"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 水彩感、半厚涂小稿",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · 黑白漫画与条漫",
+      "width": 320
+    },
+    {
+      "software": "sai2",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔（部分汉化称“通常笔”）"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "SAI2 · Live2D 分层原画",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "G 笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 控笔与线条练习",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 头部、人体与构图练习",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔",
+        "柔软"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 赛璐璐头像、半身与立绘",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · Q版、贴纸与表情包",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "水彩圆笔",
+        "柔软"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 水彩感、半厚涂小稿",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "G 笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · 黑白漫画与条漫",
+      "width": 320
+    },
+    {
+      "software": "csp",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "铅笔",
+        "G 笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Clip Studio Paint · Live2D 分层原画",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "line",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 控笔与线条练习",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "structure",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 头部、人体与构图练习",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "cel",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔",
+        "柔边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 赛璐璐头像、半身与立绘",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "q",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · Q版、贴纸与表情包",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "paint",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔",
+        "柔边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 水彩感、半厚涂小稿",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "comic",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · 黑白漫画与条漫",
+      "width": 320
+    },
+    {
+      "software": "ps",
+      "task": "live2d",
+      "bodyFont": "17px",
+      "cards": [
+        "硬边圆画笔"
+      ],
+      "document": 310,
+      "overflow": [],
+      "selectFont": "16px",
+      "title": "Photoshop · Live2D 分层原画",
+      "width": 320
+    }
+  ],
+  "layout": [
+    {
+      "document": 310,
+      "overflow": [],
+      "route": "#/roadmap",
+      "width": 320
+    },
+    {
+      "document": 310,
+      "overflow": [],
+      "route": "#/brushes/csp",
+      "width": 320
+    },
+    {
+      "document": 310,
+      "overflow": [],
+      "route": "#/m/ipad/ch03",
+      "width": 320
+    },
+    {
+      "document": 310,
+      "overflow": [],
+      "route": "#/m/practice/ch02",
+      "width": 320
+    },
+    {
+      "document": 310,
+      "overflow": [],
+      "route": "#/m/start/ch04",
+      "width": 320
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "route": "#/roadmap",
+      "width": 390
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "route": "#/brushes/csp",
+      "width": 390
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "route": "#/m/ipad/ch03",
+      "width": 390
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "route": "#/m/practice/ch02",
+      "width": 390
+    },
+    {
+      "document": 380,
+      "overflow": [],
+      "route": "#/m/start/ch04",
+      "width": 390
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "route": "#/roadmap",
+      "width": 768
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "route": "#/brushes/csp",
+      "width": 768
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "route": "#/m/ipad/ch03",
+      "width": 768
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "route": "#/m/practice/ch02",
+      "width": 768
+    },
+    {
+      "document": 758,
+      "overflow": [],
+      "route": "#/m/start/ch04",
+      "width": 768
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "route": "#/roadmap",
+      "width": 1280
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "route": "#/brushes/csp",
+      "width": 1280
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "route": "#/m/ipad/ch03",
+      "width": 1280
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "route": "#/m/practice/ch02",
+      "width": 1280
+    },
+    {
+      "document": 1270,
+      "overflow": [],
+      "route": "#/m/start/ch04",
+      "width": 1280
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "route": "#/roadmap",
+      "width": 1920
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "route": "#/brushes/csp",
+      "width": 1920
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "route": "#/m/ipad/ch03",
+      "width": 1920
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "route": "#/m/practice/ch02",
+      "width": 1920
+    },
+    {
+      "document": 1910,
+      "overflow": [],
+      "route": "#/m/start/ch04",
+      "width": 1920
+    }
+  ]
+}

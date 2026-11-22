@@ -1,0 +1,58 @@
+[
+  {
+    "buttonHeight": 44,
+    "buttonWidth": 149.203125,
+    "gap": 51,
+    "menuLeft": 448.28125,
+    "menuRight": 1008.28125,
+    "open": "true",
+    "topbarOverflow": false,
+    "truncatedItems": 0,
+    "width": 1730,
+    "outsideCloses": true
+  },
+  {
+    "buttonHeight": 44,
+    "buttonWidth": 149.203125,
+    "gap": 51,
+    "menuLeft": 403.28125,
+    "menuRight": 963.28125,
+    "open": "true",
+    "topbarOverflow": false,
+    "truncatedItems": 0,
+    "width": 1430,
+    "outsideCloses": true
+  },
+  {
+    "buttonHeight": 44,
+    "buttonWidth": 149.203125,
+    "gap": 51,
+    "menuLeft": 403.28125,
+    "menuRight": 963.28125,
+    "open": "true",
+    "topbarOverflow": false,
+    "truncatedItems": 0,
+    "width": 1191,
+    "outsideCloses": true
+  },
+  {
+    "desktopNavHidden": true,
+    "topbarOverflow": false,
+    "width": 1190
+  },
+  {
+    "desktopNavHidden": true,
+    "topbarOverflow": false,
+    "width": 758
+  },
+  {
+    "desktopNavHidden": true,
+    "topbarOverflow": false,
+    "width": 380
+  },
+  {
+    "desktopNavHidden": true,
+    "topbarOverflow": false,
+    "width": 310
+  }
+]

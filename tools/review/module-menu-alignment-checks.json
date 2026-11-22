@@ -1,0 +1,35 @@
+{
+  "checks": [
+    {
+      "bottom": 602.625,
+      "buttonLeft": 405,
+      "gap": 12,
+      "horizontalOffset": 0,
+      "menuLeft": 405,
+      "overflow": false,
+      "right": 1045,
+      "viewport": 1270,
+      "viewportHeight": 720
+    },
+    {
+      "bottom": 602.625,
+      "gap": 12,
+      "horizontalOffset": 0,
+      "right": 1060.359375,
+      "viewport": 1910,
+      "viewportHeight": 1080
+    },
+    {
+      "bottom": 484,
+      "gap": 12,
+      "horizontalOffset": 0,
+      "right": 1043.546875,
+      "scrollable": true,
+      "viewport": 1210,
+      "viewportHeight": 500
+    }
+  ],
+  "keyboardOpen": true,
+  "escapeClose": true,
+  "mobileResizeCloses": true
+}
